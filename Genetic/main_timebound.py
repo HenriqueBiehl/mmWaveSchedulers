@@ -1,5 +1,6 @@
 import numpy as np
 import genetic_scheduling as gs
+import execution_management as exec
 import createPlot as cPlot
 import sys, argparse, time
 import random  
@@ -9,7 +10,6 @@ population_size = 10
 num_generations = 100000
 elitism_rate = 0.2
 tournament_size = 2
-crossover_rate = 1.0
 mutation_rate = 0.3
 
 
@@ -30,6 +30,9 @@ parser.add_argument('-gen', '--max_gen', type=int, help='Quantidade de geraçõe
 #adiciona opcao -s que utiliza uma seed passada por argumento 
 args = parser.parse_args()
 
+if args.time_limit is None: 
+    parser.error("Você deve informar o tempo total de execução,em segundos, usando -tl")
+
 # Checa se criterios de convergencia estão corretos
 if args.seed:
     if args.seed is None:
@@ -39,10 +42,6 @@ if args.seed:
         exec_seed = args.seed_value
 else:
     exec_seed = random.randrange(sys.maxsize)
-
-if args.time_limit is None: 
-    parser.error("Ao usar a versão timebound, deve ser informado um limite de tempo em segundos usando -tl")
-
 
 random.seed(exec_seed)
 
@@ -59,40 +58,20 @@ if args.max_gen:
 dados = sys.stdin.read().split()
 dados = list(map(float, dados))  # converte tudo para float para facilitar
 
-idx = 0
-gene_size = int(dados[idx]); idx += 1   #Quantidade de scheduling sessions em um individuo
-nts = int(dados[idx]); idx += 1         #Quantidade de timeslots por sessao
-nu = int(dados[idx]); idx += 1          #Quantidade de usuários
+gene_size, nts, nu, user_nts_constraint, scheduling_sesssions = exec.read_execution_data(dados)
 
 print(f'Total timeslots:{nts}')
 print(f'Total Users:{nu}')
-
-user_nts_constraint = np.empty(nu) 
-for i in range(0, nu):
-    user_nts_constraint[i] = dados[idx] 
-    idx += 1
 
 
 print("User Timeslot usage:")
 print(user_nts_constraint)
 print("")
 
-scheduling_sesssions_list = [] 
-for k in range(0, gene_size):
-    predicted_rate = np.empty((nu, nts))
-    for i in range(0, nu):
-        for j in range(0, nts):
-            predicted_rate[i][j] = dados[idx] 
-            idx += 1
-
-    scheduling_sesssions_list.append(predicted_rate)
-
-scheduling_sesssions = np.array(scheduling_sesssions_list)
-
 if args.divide:
-    if (args.divide <= -1):
+    if (args.divide <= 1):
         print("ERROR: divide must be at least 2")
-    elif (gene_size // args.divide) < -2:
+    elif (gene_size // args.divide) < 2:
         print("ERROR: gene_size // divide must be at least 2")
         exit(0)
     pop_division = args.divide
@@ -103,30 +82,7 @@ generations_metadata = []
 for i in range(pop_division):
     generations_metadata.append([])
 
-base = gene_size // pop_division
-rest = gene_size % pop_division
-gene_pop = []
-for i in range(pop_division):
-    if i < rest: gene_pop.append(base + 1)
-    else: gene_pop.append(base)
-
-print("Scheduling session aggregation:")
-print(scheduling_sesssions)
-print("")
-
-
-population = []
-population_copy = []
-start = 0
-
-for i in range(pop_division):
-    end = start + gene_pop[i]
-
-    p = gs.initial_population_replicated_gene(scheduling_sesssions.copy()[start:end], user_nts_constraint.copy(), gene_pop[i], population_size, nts, nu)
-    population.append(p)
-    population_copy.append(p.copy())
-
-    start = end
+population, gene_pop = exec.initialize_population(scheduling_sesssions, pop_division, user_nts_constraint, population_size, nts, nu, gene_size)
 
 print("Crossover using Roulette, Timeslot Mutation and One-Point Crossover")
 print(f"    Total Generations   : {num_generations}")
@@ -147,10 +103,9 @@ for i in range(pop_division):
 
 gen = 0
 while(True):
-    r = random.uniform(0, 1)
-    if(r < crossover_rate):
-        for i in range(pop_division):
-            new_population[i] = gs.crossover(population[i], elitism_rate, gene_pop[i], population_size)  
+
+    for i in range(pop_division):
+        new_population[i] = gs.crossover(population[i], elitism_rate, gene_pop[i], population_size)  
 
     start = 0
     for i in range(pop_division):
@@ -175,78 +130,35 @@ while(True):
 end_time = time.perf_counter() - start_time
 
 if args.plot:
-    for p_ind in range(pop_division):
-        for i in range(gene_pop[p_ind]):
-            scheduling = generations_metadata[p_ind][gen]['max_ind'][i][0]
-            if(not gs.validate_scheduling(scheduling, user_nts_constraint,nts, nu)):
-                print(f"Erro: scheduling {p_ind + i} é inválido: ")
-                print(scheduling)
-                exit(1)
+    exec.validate_final_scheduling(pop_division, gene_pop, generations_metadata, gen, user_nts_constraint, nts, nu)
 else:
-    for p_ind in range(pop_division):
-        for i in range(gene_pop[p_ind]):
-            scheduling = generations_metadata[p_ind][0]['max_ind'][i][0]
-            if(not gs.validate_scheduling(scheduling, user_nts_constraint,nts, nu)):
-                print(f"Erro: scheduling {p_ind + i} é inválido: ")
-                print(scheduling)
-                exit(1)
+     exec.validate_final_scheduling(pop_division, gene_pop, generations_metadata, 0, user_nts_constraint, nts, nu)
 
 print("Scheduling final válido!")
 
 max_fitness = 0.0
 if args.plot:
-    for j in range(pop_division):
-        max_fitness += generations_metadata[j][gen]['max']
+    max_fitness =  exec.calculate_maxfitness(generations_metadata, pop_division, gen)
 else:
-    for j in range(pop_division):
-        max_fitness += generations_metadata[j][0]['max']
+    max_fitness =  exec.calculate_maxfitness(generations_metadata, pop_division, 0)
+
+
+print(f"Max fitness of generation {gen+1} = {max_fitness:.2f} found in {end_time:.2f} secs")
+
 
 if args.plot:
-    print(f"Max fitness of generation {gen+1} = {max_fitness:.2f} found in {end_time:.2f} secs")
-    with open("metadata.txt", "w") as metadataFile:
-        for k in range(gen):
-            low_f = 0.0
-            avg_f = 0.0
-            max_f = 0.0
-            for j in range(pop_division):
-                low_f += generations_metadata[j][k]['low']
-                avg_f += generations_metadata[j][k]['avg']
-                max_f += generations_metadata[j][k]['max']
-            metadataFile.write(f"{low_f:.2f} - {avg_f:.2f} - {max_f:.2f}\n")
-else:
-    print(f"Max fitness of generation {gen+1} = {max_fitness/(10 ** 9):.2f} found in {end_time:.2f} secs")
+     exec.write_metadata_file(generations_metadata, max_fitness)
 
 
 if args.finalind:
-    maxIndvs = []
-
-    print("Maximal individuals:")
-    full_individual = []
-
     if args.plot:
-        for p_ind in range(pop_division):
-            full_individual.extend(generations_metadata[p_ind][gen]['max_ind'])
+         exec.print_max_individuals(generations_metadata, gene_size, pop_division, gen)   
     else:
-        for p_ind in range(pop_division):
-            full_individual.extend(generations_metadata[p_ind][0]['max_ind'])
-
-    full_individual = np.array(full_individual)
-    print("\t", end="")
-    for j in range(gene_size):
-        print(f"{full_individual[j][0]}", end="")
-    print("")
+         exec.print_max_individuals(generations_metadata, gene_size, pop_division, 0)
 
 if args.plot:
     cPlot.plotFitness()
 
 if args.metadata:
-    print("\n")
-    print("---- Metadata and Parameters -----")
-    print(f"    Seed: {exec_seed}")
-    print(f"    Population size: {population_size}")
-    print(f"    Num. of Populations: {pop_division}")
-    print(f"    Generation Number: {num_generations}")
-    print(f"    Elitism Rate: {elitism_rate:.2f}")
-    print(f"    Mutation Rate: {mutation_rate:.2f}")
-    print(f"    Tournament Size: {tournament_size}")
+     exec.print_execution_metadata(exec_seed, population_size, pop_division, num_generations, elitism_rate, mutation_rate)
  

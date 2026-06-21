@@ -15,7 +15,7 @@ def validate_scheduling(scheduling, usage_constraint, nts, nu):
 
     return 1; 
 
-def create_scheduling_mask(scheduling_sessions, usage_constraint, gene_size, nts, nu):
+def create_scheduling_mask(usage_constraint, gene_size, nts, nu):
     scheduling_mask = []
     for j in range (0, gene_size): 
         usage_constraint_counter = usage_constraint.copy()
@@ -35,7 +35,7 @@ def initial_population_replicated_gene(scheduling_sessions, usage_constraint, ge
     for _ in range(0, population_size):
         individual = []
 
-        scheduling_mask = create_scheduling_mask(scheduling_sessions, usage_constraint, gene_size, nts, nu)
+        scheduling_mask = create_scheduling_mask(usage_constraint, gene_size, nts, nu)
         for j in range (0, gene_size):
             schedule = np.empty((2, nts))
             for k in range(0, nts):
@@ -108,6 +108,7 @@ def roulette_selection(fitness_values, n=2):
 def tournament_selection(population, fitness_values, tournament_size):
     indices = rand.sample(range(len(population)), tournament_size)
     return max(indices, key=lambda i: fitness_values[i])
+
 
 def fitness_batch(population):
     # population[:, :, 1, :] seleciona o índice 1 do eixo 2 para TODOS os indivíduos
@@ -198,7 +199,7 @@ def crossover(population, elitism_rate, gene_size, population_size):
 
         a, b = roulette_selection(fitness_values)
 
-        child = uniform_crossover(a, b, population, gene_size)
+        child = one_point_crossover(a, b, population, gene_size)
         
         new_population.append(child)
 
@@ -364,17 +365,6 @@ def timeslot_mutation(population, scheduling_sessions, mutation_rate, gene_size,
     return np.array(new_population)
 
 
-
-# def mutation_operator(population, population_size, gene_size, predicted_rates, dna, mutation_type):
-
-#     index = rand.randint(0,population_size -1)
-#     individual = population[index]
-
-#     mutation_type(individual, predicted_rates, gene_size, dna)
-
-#     return index
-
-
 def mutation_swap_timeslot(individual, predicted_rates, gene_size, dna):
 
     for i in range(0, gene_size):
@@ -391,10 +381,6 @@ def mutation_swap_timeslot(individual, predicted_rates, gene_size, dna):
 
         new_rate_a = predicted_rates[i][user_a][timeslot_b]
         new_rate_b = predicted_rates[i][user_b][timeslot_a]
-        #print( individual[i][0])
-        #print(f'    gene: {i} | ta: {timeslot_a} | tb: {timeslot_b}')
-        #print(f'    {user_a} and {user_b}')
-        #print(f'    a: {predicted_rates[i][user_a][timeslot_a]} b:{predicted_rates[i][user_b][timeslot_b]}')
 
         individual[i][0][timeslot_a] = user_b
         individual[i][1][timeslot_a] = new_rate_b
@@ -403,6 +389,7 @@ def mutation_swap_timeslot(individual, predicted_rates, gene_size, dna):
         individual[i][1][timeslot_b] = new_rate_a
 
     return 
+
 
 def collect_generation_metadata(generation_metadata, population, population_size):
         
@@ -461,6 +448,7 @@ def check_convergence(generation_metadata, current_generation, convergence_analy
         return 1 
 
     return 0
+
 
 def hypermutation(population, scheduling_sessions, usage_constraint, gene_size, population_size, nts, nu, discarded_percent):
     discarded_size = int(population_size * discarded_percent)
