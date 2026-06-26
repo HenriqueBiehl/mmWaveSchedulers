@@ -22,7 +22,7 @@ parser.add_argument('-s', '--seed', action='store_true', help='Adicionar seed ma
 parser.add_argument('-sv', '--seed_value', type=int, help='Valor da seed')
 parser.add_argument('-tl', '--time_limit', type=float, help='Limite de tempo')
 parser.add_argument('-div', '--divide', type=int, help='Divisão da população')
-parser.add_argument('-m', '--mutation', type=float, help='Taxa de mutação')
+parser.add_argument('-mut', '--mutation', type=float, help='Taxa de mutação')
 parser.add_argument('-pop', '--population', type=int, help='Tamanho população')
 parser.add_argument('-gen', '--max_gen', type=int, help='Quantidade de gerações')
 
@@ -60,6 +60,7 @@ dados = list(map(float, dados))  # converte tudo para float para facilitar
 
 gene_size, nts, nu, user_nts_constraint, scheduling_sesssions = exec.read_execution_data(dados)
 
+print()
 print(f'Total timeslots:{nts}')
 print(f'Total Users:{nu}')
 
@@ -116,6 +117,7 @@ while(True):
     if (args.plot) or (gen == num_generations-1): 
         for i in range(pop_division):
             gs.collect_generation_metadata(generations_metadata[i], new_population[i], population_size)
+        break
 
     for i in range(pop_division):
         population[i] = new_population[i].copy()
@@ -161,4 +163,5 @@ if args.plot:
 
 if args.metadata:
      exec.print_execution_metadata(exec_seed, population_size, pop_division, num_generations, elitism_rate, mutation_rate)
- 
+     print(f"    Time limt (seg):{args.time_limit:2f}")
+     print("----------------------\n")

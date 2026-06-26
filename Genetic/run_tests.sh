@@ -1,17 +1,26 @@
 #!/bin/bash
 
-runs=1
+runs=2
 total_time=0
 total_fitness=0
-time_limits=(1 2 3 4 4.5 1000000000000)
+time_limits=(1 2 4 1000000000000)
 population_sizes=(5 10 30 50 100)
 generation_sizes=(30000 50000 100000)
-mutation_types=(0.05 0.10 0.15 0.30)
+mutation_types=(0.15 0.30)
+DIR="./Results/"
 
 if [ -z "$1" ]; then
     echo "Uso: $0 <arquivo_entrada>"
     exit 1
 fi
+
+if [ ! -d "$DIR" ]; then
+    mkdir -p "$DIR"
+else 
+    rm -rf "$DIR"/*
+fi
+
+
 
 input_file=$1
 
@@ -27,8 +36,21 @@ for pop in "${population_sizes[@]}"; do
                 echo -e "\nExecution $run_index: ${pop} Population - ${gen} Generation - ${mut} Mutation - ${tls} second time limit"
                 total_time=0
                 total_fitness=0
+
+                time=$tls
+                if [[ "$tls" == "1000000000000" || "$tls" == "1000000000000.0" ]]; then
+                    time="no_limit"
+                fi
+
+                result_file="res-${pop}-${gen}-${mut}-${time}.txt"
+                path="${DIR}${result_file}"
+
+
                 for i in $(seq 1 $runs); do
                     output=$(python3 main_timebound.py -tl $tls -pop $pop -mut $mut -gen $gen -meta < "$input_file")
+                
+
+                    echo "$output" >> $path
 
                     # Pega só a última linha relevante
                     line=$(echo "$output" | grep "Max fitness")
