@@ -3,7 +3,7 @@
 import subprocess, os.path, re, argparse, time
 
 def runner(DATA_PATH, show_x):
-    OPLRUN_PATH="/opt/ibm/ILOG/CPLEX_Studio_Community222/opl/bin/x86-64_linux/oplrun"
+    OPLRUN_PATH="/opt/ibm/ILOG/CPLEX_Studio2212/opl/bin/x86-64_linux/oplrun"
     MODEL_PATH="./BILP.mod"
 
     if not os.path.isfile(OPLRUN_PATH):
