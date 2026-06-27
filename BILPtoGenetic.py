@@ -10,11 +10,11 @@ numFiles = 0
 ratePerUser = []
 
 for root, _, files in os.walk(folderPath, topdown=True):
-    files.sort()
+    files.sort(key=lambda f: int(os.path.splitext(os.path.basename(f))[0].split("_")[-1]))
     for name in files:
         numFiles += 1
         fileName = os.path.join(root, name)
-        print(fileName)
+        # print(fileName)
         with open(fileName, "r") as BILPFile:
             # Converte o nu
             for s in BILPFile.readline().strip("\n;").split():
@@ -29,8 +29,9 @@ for root, _, files in os.walk(folderPath, topdown=True):
             tsPerUser = []
 
             # Converte o num de timeslots pra cada user
-            for s in BILPFile.readline().strip("\n;]").replace(',', "").replace('[', '').split():
-                if s.isdigit() and s != '1':
+            timeslots = BILPFile.readline().strip("\n;]").replace(',', "").replace('[', '').split()
+            for s in timeslots[:nu+2]:
+                if s.isdigit():
                     tsPerUser.append(s)
 
             # Converte o num de timeslots pra cada user

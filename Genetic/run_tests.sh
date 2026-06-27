@@ -26,12 +26,14 @@ input_file=$1
 
 run_index=0
 
+file_name=$(basename -s .txt "$input_file")
+mkdir "${DIR}${file_name}"
+
 for pop in "${population_sizes[@]}"; do 
 
     for gen in "${generation_sizes[@]}"; do 
 
-        for mut in "${mutation_types[@]}"; do 
-
+        for mut in "${mutation_types[@]}"; do             
             for tls in "${time_limits[@]}"; do 
                 echo -e "\nExecution $run_index: ${pop} Population - ${gen} Generation - ${mut} Mutation - ${tls} second time limit"
                 total_time=0
@@ -43,7 +45,7 @@ for pop in "${population_sizes[@]}"; do
                 fi
 
                 result_file="res-${pop}-${gen}-${mut}-${time}.txt"
-                path="${DIR}${result_file}"
+                path="${DIR}${file_name}/${result_file}"
 
 
                 for i in $(seq 1 $runs); do
