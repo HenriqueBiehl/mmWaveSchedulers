@@ -23,5 +23,6 @@ done
 cd ./Genetic
 for file in ./Tests/*.txt; do
     echo "Executando $file - Genético"
-    ./run_tests.sh "$file" > /dev/null
+    file_name=$(basename -s .txt $file)
+    ./run_tests.sh "$file" > ./Results/${file_name}/Output.txt
 done
