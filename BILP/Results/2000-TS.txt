@@ -1,0 +1,12 @@
+Objective = 36394.05
+Objective = 36399.34
+Objective = 36484.75
+Objective = 36384.21
+Objective = 36323.54
+Objective = 36399.14
+Objective = 36378.00
+Objective = 36286.78
+Objective = 36421.27
+Objective = 36252.70
+Total Objective = 363723.7800000001 Gbps
+Results found in 2016.0182 secs

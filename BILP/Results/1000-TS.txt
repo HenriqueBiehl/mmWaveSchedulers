@@ -1,0 +1,22 @@
+Objective = 18290.30
+Objective = 18203.44
+Objective = 18107.09
+Objective = 18127.67
+Objective = 18164.43
+Objective = 18213.98
+Objective = 18205.82
+Objective = 18069.54
+Objective = 18130.45
+Objective = 18204.25
+Objective = 18187.77
+Objective = 18230.94
+Objective = 18215.95
+Objective = 18133.11
+Objective = 18164.81
+Objective = 18182.95
+Objective = 18176.09
+Objective = 18236.02
+Objective = 18189.04
+Objective = 18105.24
+Total Objective = 363538.89 Gbps
+Results found in 935.7212 secs

@@ -1,0 +1,7 @@
+Objective = 72785.11
+Objective = 72643.08
+Objective = 72775.06
+Objective = 72865.16
+Objective = 72768.26
+Total Objective = 363836.67000000004 Gbps
+Results found in 3887.2334 secs

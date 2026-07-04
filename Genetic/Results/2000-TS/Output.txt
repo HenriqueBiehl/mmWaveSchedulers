@@ -1,0 +1,2520 @@
+
+Execution 0: 5 Population - 30000 Generation - 0.15 Mutation - 1 second time limit
+Run 01 -> fitness=215631.29 | time=1.00
+Run 02 -> fitness=216415.28 | time=1.00
+Run 03 -> fitness=216066.35 | time=1.00
+Run 04 -> fitness=216484.44 | time=1.00
+Run 05 -> fitness=215793.68 | time=1.00
+Run 06 -> fitness=215190.50 | time=1.00
+Run 07 -> fitness=216860.09 | time=1.00
+Run 08 -> fitness=214273.46 | time=1.00
+Run 09 -> fitness=215050.27 | time=1.00
+Run 10 -> fitness=215773.74 | time=1.00
+Run 11 -> fitness=214945.82 | time=1.00
+Run 12 -> fitness=215517.35 | time=1.00
+Run 13 -> fitness=216252.85 | time=1.00
+Run 14 -> fitness=216274.21 | time=1.00
+Run 15 -> fitness=216326.66 | time=1.00
+Run 16 -> fitness=216092.83 | time=1.00
+Run 17 -> fitness=215855.35 | time=1.00
+Run 18 -> fitness=215092.20 | time=1.00
+Run 19 -> fitness=213936.23 | time=1.00
+Run 20 -> fitness=215626.80 | time=1.00
+Run 21 -> fitness=215271.10 | time=1.00
+Run 22 -> fitness=215997.81 | time=1.00
+Run 23 -> fitness=215251.19 | time=1.00
+Run 24 -> fitness=216205.27 | time=1.00
+Run 25 -> fitness=215997.03 | time=1.00
+Run 26 -> fitness=216541.61 | time=1.00
+Run 27 -> fitness=216128.69 | time=1.00
+Run 28 -> fitness=215141.31 | time=1.00
+Run 29 -> fitness=216050.36 | time=1.00
+Run 30 -> fitness=215884.52 | time=1.00
+----------------------
+Média do tempo: 1.0000 secs
+Média do fitness: 215730.9430 Gbps
+
+Execution 1: 5 Population - 30000 Generation - 0.15 Mutation - 2 second time limit
+Run 01 -> fitness=226457.96 | time=2.00
+Run 02 -> fitness=224941.03 | time=2.00
+Run 03 -> fitness=225312.95 | time=2.00
+Run 04 -> fitness=226868.58 | time=2.00
+Run 05 -> fitness=225502.81 | time=2.00
+Run 06 -> fitness=225722.88 | time=2.00
+Run 07 -> fitness=226614.29 | time=2.00
+Run 08 -> fitness=224747.24 | time=2.00
+Run 09 -> fitness=225617.61 | time=2.00
+Run 10 -> fitness=225682.63 | time=2.00
+Run 11 -> fitness=226271.54 | time=2.00
+Run 12 -> fitness=225911.80 | time=2.00
+Run 13 -> fitness=226558.45 | time=2.00
+Run 14 -> fitness=224301.86 | time=2.00
+Run 15 -> fitness=225242.69 | time=2.00
+Run 16 -> fitness=225705.21 | time=2.00
+Run 17 -> fitness=225578.43 | time=2.00
+Run 18 -> fitness=225425.66 | time=2.00
+Run 19 -> fitness=225849.43 | time=2.00
+Run 20 -> fitness=225277.26 | time=2.00
+Run 21 -> fitness=226424.50 | time=2.00
+Run 22 -> fitness=225722.37 | time=2.00
+Run 23 -> fitness=224703.87 | time=2.00
+Run 24 -> fitness=225062.68 | time=2.00
+Run 25 -> fitness=225055.02 | time=2.00
+Run 26 -> fitness=226646.78 | time=2.00
+Run 27 -> fitness=224014.84 | time=2.00
+Run 28 -> fitness=225001.88 | time=2.00
+Run 29 -> fitness=225765.86 | time=2.00
+Run 30 -> fitness=224493.35 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 225549.3820 Gbps
+
+Execution 2: 5 Population - 30000 Generation - 0.15 Mutation - 4 second time limit
+Run 01 -> fitness=240207.46 | time=4.00
+Run 02 -> fitness=238788.41 | time=4.00
+Run 03 -> fitness=239009.07 | time=4.00
+Run 04 -> fitness=238474.87 | time=4.00
+Run 05 -> fitness=239289.36 | time=4.00
+Run 06 -> fitness=240161.30 | time=4.00
+Run 07 -> fitness=240369.23 | time=4.00
+Run 08 -> fitness=238792.09 | time=4.00
+Run 09 -> fitness=238577.68 | time=4.00
+Run 10 -> fitness=239604.97 | time=4.00
+Run 11 -> fitness=238996.11 | time=4.00
+Run 12 -> fitness=239634.88 | time=4.00
+Run 13 -> fitness=238993.98 | time=4.00
+Run 14 -> fitness=239381.65 | time=4.00
+Run 15 -> fitness=239275.23 | time=4.00
+Run 16 -> fitness=239634.83 | time=4.00
+Run 17 -> fitness=240742.92 | time=4.00
+Run 18 -> fitness=238341.72 | time=4.00
+Run 19 -> fitness=239523.56 | time=4.00
+Run 20 -> fitness=238414.25 | time=4.00
+Run 21 -> fitness=239712.89 | time=4.00
+Run 22 -> fitness=238906.68 | time=4.00
+Run 23 -> fitness=239671.09 | time=4.00
+Run 24 -> fitness=239965.22 | time=4.00
+Run 25 -> fitness=239123.10 | time=4.00
+Run 26 -> fitness=239086.13 | time=4.00
+Run 27 -> fitness=240580.97 | time=4.00
+Run 28 -> fitness=238439.32 | time=4.00
+Run 29 -> fitness=239297.55 | time=4.00
+Run 30 -> fitness=239635.01 | time=4.00
+----------------------
+Média do tempo: 4.0000 secs
+Média do fitness: 239354.3843 Gbps
+
+Execution 3: 5 Population - 30000 Generation - 0.15 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=277872.44 | time=21.92
+Run 02 -> fitness=278923.25 | time=22.03
+Run 03 -> fitness=277941.36 | time=21.91
+Run 04 -> fitness=279003.23 | time=21.60
+Run 05 -> fitness=279304.50 | time=21.99
+Run 06 -> fitness=278439.58 | time=21.93
+Run 07 -> fitness=278634.61 | time=21.53
+Run 08 -> fitness=277687.54 | time=21.56
+Run 09 -> fitness=277755.64 | time=21.91
+Run 10 -> fitness=279697.60 | time=22.00
+Run 11 -> fitness=278343.75 | time=22.05
+Run 12 -> fitness=278893.85 | time=21.95
+Run 13 -> fitness=278415.33 | time=22.22
+Run 14 -> fitness=278155.02 | time=22.07
+Run 15 -> fitness=278111.38 | time=22.01
+Run 16 -> fitness=279448.33 | time=22.05
+Run 17 -> fitness=278224.04 | time=21.56
+Run 18 -> fitness=278543.92 | time=21.98
+Run 19 -> fitness=278275.87 | time=21.93
+Run 20 -> fitness=279407.75 | time=21.91
+Run 21 -> fitness=278243.12 | time=21.89
+Run 22 -> fitness=278987.87 | time=21.92
+Run 23 -> fitness=277891.24 | time=21.52
+Run 24 -> fitness=278420.22 | time=22.04
+Run 25 -> fitness=278261.90 | time=21.90
+Run 26 -> fitness=278119.70 | time=22.01
+Run 27 -> fitness=278960.50 | time=21.87
+Run 28 -> fitness=278021.39 | time=22.04
+Run 29 -> fitness=278621.68 | time=21.94
+Run 30 -> fitness=279074.68 | time=21.99
+----------------------
+Média do tempo: 21.9076 secs
+Média do fitness: 278522.7096 Gbps
+
+Execution 4: 5 Population - 30000 Generation - 0.30 Mutation - 1 second time limit
+Run 01 -> fitness=220332.66 | time=1.00
+Run 02 -> fitness=220852.76 | time=1.00
+Run 03 -> fitness=221835.27 | time=1.00
+Run 04 -> fitness=221002.41 | time=1.00
+Run 05 -> fitness=220694.97 | time=1.00
+Run 06 -> fitness=220549.22 | time=1.00
+Run 07 -> fitness=220481.95 | time=1.00
+Run 08 -> fitness=221893.64 | time=1.00
+Run 09 -> fitness=220235.45 | time=1.00
+Run 10 -> fitness=220277.49 | time=1.00
+Run 11 -> fitness=220583.46 | time=1.00
+Run 12 -> fitness=221807.49 | time=1.00
+Run 13 -> fitness=220693.84 | time=1.00
+Run 14 -> fitness=220425.87 | time=1.00
+Run 15 -> fitness=219969.46 | time=1.00
+Run 16 -> fitness=219310.42 | time=1.00
+Run 17 -> fitness=219060.47 | time=1.00
+Run 18 -> fitness=220460.97 | time=1.00
+Run 19 -> fitness=220726.92 | time=1.00
+Run 20 -> fitness=219640.78 | time=1.00
+Run 21 -> fitness=220719.06 | time=1.00
+Run 22 -> fitness=220012.82 | time=1.00
+Run 23 -> fitness=220187.05 | time=1.00
+Run 24 -> fitness=220390.54 | time=1.00
+Run 25 -> fitness=220453.44 | time=1.00
+Run 26 -> fitness=220766.60 | time=1.00
+Run 27 -> fitness=219675.16 | time=1.00
+Run 28 -> fitness=221098.82 | time=1.00
+Run 29 -> fitness=221245.76 | time=1.00
+Run 30 -> fitness=220396.01 | time=1.00
+----------------------
+Média do tempo: 1.0000 secs
+Média do fitness: 220526.0253 Gbps
+
+Execution 5: 5 Population - 30000 Generation - 0.30 Mutation - 2 second time limit
+Run 01 -> fitness=231736.87 | time=2.00
+Run 02 -> fitness=231174.27 | time=2.00
+Run 03 -> fitness=232032.19 | time=2.00
+Run 04 -> fitness=232676.72 | time=2.00
+Run 05 -> fitness=231052.31 | time=2.00
+Run 06 -> fitness=231448.03 | time=2.00
+Run 07 -> fitness=232914.78 | time=2.00
+Run 08 -> fitness=231196.78 | time=2.00
+Run 09 -> fitness=232100.89 | time=2.00
+Run 10 -> fitness=232727.99 | time=2.00
+Run 11 -> fitness=230973.69 | time=2.00
+Run 12 -> fitness=232480.42 | time=2.00
+Run 13 -> fitness=231648.05 | time=2.00
+Run 14 -> fitness=232770.23 | time=2.00
+Run 15 -> fitness=232528.62 | time=2.00
+Run 16 -> fitness=229594.75 | time=2.00
+Run 17 -> fitness=232240.54 | time=2.00
+Run 18 -> fitness=232001.66 | time=2.00
+Run 19 -> fitness=233487.92 | time=2.00
+Run 20 -> fitness=232892.30 | time=2.00
+Run 21 -> fitness=232142.15 | time=2.00
+Run 22 -> fitness=233278.39 | time=2.00
+Run 23 -> fitness=231752.03 | time=2.00
+Run 24 -> fitness=232141.72 | time=2.00
+Run 25 -> fitness=232947.69 | time=2.00
+Run 26 -> fitness=232045.92 | time=2.00
+Run 27 -> fitness=232429.55 | time=2.00
+Run 28 -> fitness=233048.69 | time=2.00
+Run 29 -> fitness=232999.64 | time=2.00
+Run 30 -> fitness=232797.50 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 232175.4096 Gbps
+
+Execution 6: 5 Population - 30000 Generation - 0.30 Mutation - 4 second time limit
+Run 01 -> fitness=245614.24 | time=4.00
+Run 02 -> fitness=245157.22 | time=4.00
+Run 03 -> fitness=246052.54 | time=4.00
+Run 04 -> fitness=246234.35 | time=4.00
+Run 05 -> fitness=245896.43 | time=4.00
+Run 06 -> fitness=245978.87 | time=4.00
+Run 07 -> fitness=245605.57 | time=4.00
+Run 08 -> fitness=245941.53 | time=4.00
+Run 09 -> fitness=246199.28 | time=4.00
+Run 10 -> fitness=245905.64 | time=4.00
+Run 11 -> fitness=245237.59 | time=4.00
+Run 12 -> fitness=245622.26 | time=4.00
+Run 13 -> fitness=243959.29 | time=4.00
+Run 14 -> fitness=245835.42 | time=4.00
+Run 15 -> fitness=245475.00 | time=4.00
+Run 16 -> fitness=245587.20 | time=4.00
+Run 17 -> fitness=246426.07 | time=4.00
+Run 18 -> fitness=245229.27 | time=4.00
+Run 19 -> fitness=246599.11 | time=4.00
+Run 20 -> fitness=245642.50 | time=4.00
+Run 21 -> fitness=245076.35 | time=4.00
+Run 22 -> fitness=244450.03 | time=4.00
+Run 23 -> fitness=245918.22 | time=4.00
+Run 24 -> fitness=245823.15 | time=4.00
+Run 25 -> fitness=245088.64 | time=4.00
+Run 26 -> fitness=245091.88 | time=4.00
+Run 27 -> fitness=244514.68 | time=4.00
+Run 28 -> fitness=246080.13 | time=4.00
+Run 29 -> fitness=245631.91 | time=4.00
+Run 30 -> fitness=245929.39 | time=4.00
+----------------------
+Média do tempo: 4.0000 secs
+Média do fitness: 245593.4586 Gbps
+
+Execution 7: 5 Population - 30000 Generation - 0.30 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=267715.38 | time=21.98
+Run 02 -> fitness=266046.60 | time=21.96
+Run 03 -> fitness=266686.70 | time=21.99
+Run 04 -> fitness=266777.05 | time=22.00
+Run 05 -> fitness=266305.78 | time=22.06
+Run 06 -> fitness=267439.81 | time=21.78
+Run 07 -> fitness=266790.53 | time=21.39
+Run 08 -> fitness=266130.14 | time=22.00
+Run 09 -> fitness=266457.33 | time=21.79
+Run 10 -> fitness=267005.44 | time=22.01
+Run 11 -> fitness=267297.85 | time=21.99
+Run 12 -> fitness=265789.40 | time=21.98
+Run 13 -> fitness=267251.72 | time=22.05
+Run 14 -> fitness=267994.91 | time=21.75
+Run 15 -> fitness=266580.43 | time=21.85
+Run 16 -> fitness=267835.27 | time=21.92
+Run 17 -> fitness=267084.69 | time=22.04
+Run 18 -> fitness=265924.25 | time=22.02
+Run 19 -> fitness=267231.23 | time=22.01
+Run 20 -> fitness=266884.32 | time=21.79
+Run 21 -> fitness=266325.21 | time=21.97
+Run 22 -> fitness=266265.18 | time=21.93
+Run 23 -> fitness=266945.79 | time=21.96
+Run 24 -> fitness=267365.19 | time=22.08
+Run 25 -> fitness=266684.58 | time=22.03
+Run 26 -> fitness=267234.59 | time=21.79
+Run 27 -> fitness=267726.96 | time=22.07
+Run 28 -> fitness=267171.26 | time=22.03
+Run 29 -> fitness=266778.96 | time=21.97
+Run 30 -> fitness=266981.69 | time=22.12
+----------------------
+Média do tempo: 21.9436 secs
+Média do fitness: 266890.2746 Gbps
+
+Execution 8: 5 Population - 50000 Generation - 0.15 Mutation - 1 second time limit
+Run 01 -> fitness=216823.57 | time=1.00
+Run 02 -> fitness=214561.30 | time=1.00
+Run 03 -> fitness=215437.81 | time=1.00
+Run 04 -> fitness=215347.62 | time=1.00
+Run 05 -> fitness=214423.87 | time=1.00
+Run 06 -> fitness=215874.20 | time=1.00
+Run 07 -> fitness=216020.59 | time=1.00
+Run 08 -> fitness=215438.75 | time=1.00
+Run 09 -> fitness=215162.85 | time=1.00
+Run 10 -> fitness=216668.11 | time=1.00
+Run 11 -> fitness=215836.23 | time=1.00
+Run 12 -> fitness=215968.00 | time=1.00
+Run 13 -> fitness=215564.50 | time=1.00
+Run 14 -> fitness=214957.39 | time=1.00
+Run 15 -> fitness=215970.01 | time=1.00
+Run 16 -> fitness=215323.71 | time=1.00
+Run 17 -> fitness=215396.51 | time=1.00
+Run 18 -> fitness=215060.34 | time=1.00
+Run 19 -> fitness=215275.80 | time=1.00
+Run 20 -> fitness=216869.35 | time=1.00
+Run 21 -> fitness=214624.23 | time=1.00
+Run 22 -> fitness=215674.73 | time=1.00
+Run 23 -> fitness=216256.30 | time=1.00
+Run 24 -> fitness=214652.21 | time=1.00
+Run 25 -> fitness=215752.68 | time=1.00
+Run 26 -> fitness=216245.25 | time=1.00
+Run 27 -> fitness=215066.73 | time=1.00
+Run 28 -> fitness=222782.68 | time=1.00
+Run 29 -> fitness=216297.34 | time=1.00
+Run 30 -> fitness=216094.07 | time=1.00
+----------------------
+Média do tempo: 1.0000 secs
+Média do fitness: 215847.5576 Gbps
+
+Execution 9: 5 Population - 50000 Generation - 0.15 Mutation - 2 second time limit
+Run 01 -> fitness=224935.34 | time=2.00
+Run 02 -> fitness=225540.71 | time=2.00
+Run 03 -> fitness=225442.14 | time=2.00
+Run 04 -> fitness=225469.22 | time=2.00
+Run 05 -> fitness=224005.09 | time=2.00
+Run 06 -> fitness=225282.89 | time=2.00
+Run 07 -> fitness=224991.34 | time=2.00
+Run 08 -> fitness=225492.05 | time=2.00
+Run 09 -> fitness=225245.98 | time=2.00
+Run 10 -> fitness=225900.62 | time=2.00
+Run 11 -> fitness=225232.48 | time=2.00
+Run 12 -> fitness=224597.22 | time=2.00
+Run 13 -> fitness=226004.74 | time=2.00
+Run 14 -> fitness=225686.30 | time=2.00
+Run 15 -> fitness=225322.14 | time=2.00
+Run 16 -> fitness=225895.02 | time=2.00
+Run 17 -> fitness=225047.15 | time=2.00
+Run 18 -> fitness=222650.86 | time=2.00
+Run 19 -> fitness=225033.99 | time=2.00
+Run 20 -> fitness=226264.75 | time=2.00
+Run 21 -> fitness=225294.30 | time=2.00
+Run 22 -> fitness=225497.00 | time=2.00
+Run 23 -> fitness=227027.20 | time=2.00
+Run 24 -> fitness=225057.74 | time=2.00
+Run 25 -> fitness=226263.20 | time=2.00
+Run 26 -> fitness=225381.86 | time=2.00
+Run 27 -> fitness=224451.75 | time=2.00
+Run 28 -> fitness=226596.38 | time=2.00
+Run 29 -> fitness=225506.53 | time=2.00
+Run 30 -> fitness=225200.06 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 225343.8683 Gbps
+
+Execution 10: 5 Population - 50000 Generation - 0.15 Mutation - 4 second time limit
+Run 01 -> fitness=237088.56 | time=4.00
+Run 02 -> fitness=238936.89 | time=4.00
+Run 03 -> fitness=239285.46 | time=4.00
+Run 04 -> fitness=240314.62 | time=4.00
+Run 05 -> fitness=239887.91 | time=4.00
+Run 06 -> fitness=240089.28 | time=4.00
+Run 07 -> fitness=239836.11 | time=4.00
+Run 08 -> fitness=238263.18 | time=4.00
+Run 09 -> fitness=238330.21 | time=4.00
+Run 10 -> fitness=238788.68 | time=4.00
+Run 11 -> fitness=239047.59 | time=4.00
+Run 12 -> fitness=239909.89 | time=4.00
+Run 13 -> fitness=239103.78 | time=4.00
+Run 14 -> fitness=238995.11 | time=4.00
+Run 15 -> fitness=240048.56 | time=4.00
+Run 16 -> fitness=238923.21 | time=4.00
+Run 17 -> fitness=238875.36 | time=4.00
+Run 18 -> fitness=240015.68 | time=4.00
+Run 19 -> fitness=240364.63 | time=4.00
+Run 20 -> fitness=238511.25 | time=4.00
+Run 21 -> fitness=239623.32 | time=4.00
+Run 22 -> fitness=239349.54 | time=4.00
+Run 23 -> fitness=237895.52 | time=4.00
+Run 24 -> fitness=240658.04 | time=4.00
+Run 25 -> fitness=239320.42 | time=4.00
+Run 26 -> fitness=239907.02 | time=4.00
+Run 27 -> fitness=240370.59 | time=4.00
+Run 28 -> fitness=237436.13 | time=4.00
+Run 29 -> fitness=238262.90 | time=4.00
+Run 30 -> fitness=239912.82 | time=4.00
+----------------------
+Média do tempo: 4.0000 secs
+Média do fitness: 239245.0753 Gbps
+
+Execution 11: 5 Population - 50000 Generation - 0.15 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=287295.64 | time=36.49
+Run 02 -> fitness=287495.32 | time=36.79
+Run 03 -> fitness=287649.45 | time=36.64
+Run 04 -> fitness=287677.33 | time=35.82
+Run 05 -> fitness=287219.98 | time=36.69
+Run 06 -> fitness=288143.02 | time=36.57
+Run 07 -> fitness=288088.91 | time=36.63
+Run 08 -> fitness=287649.04 | time=36.75
+Run 09 -> fitness=287753.53 | time=36.60
+Run 10 -> fitness=287634.50 | time=35.58
+Run 11 -> fitness=288083.59 | time=36.68
+Run 12 -> fitness=287582.09 | time=36.68
+Run 13 -> fitness=287488.38 | time=35.60
+Run 14 -> fitness=287252.78 | time=36.46
+Run 15 -> fitness=287819.36 | time=36.81
+Run 16 -> fitness=288506.64 | time=36.70
+Run 17 -> fitness=288016.08 | time=36.66
+Run 18 -> fitness=287540.98 | time=36.65
+Run 19 -> fitness=288422.24 | time=36.60
+Run 20 -> fitness=287711.48 | time=36.64
+Run 21 -> fitness=286725.51 | time=36.51
+Run 22 -> fitness=287833.16 | time=35.85
+Run 23 -> fitness=287800.03 | time=36.65
+Run 24 -> fitness=288363.22 | time=36.55
+Run 25 -> fitness=288257.00 | time=36.63
+Run 26 -> fitness=286948.30 | time=36.60
+Run 27 -> fitness=287721.83 | time=36.60
+Run 28 -> fitness=287322.13 | time=36.50
+Run 29 -> fitness=287554.05 | time=36.66
+Run 30 -> fitness=287256.61 | time=36.50
+----------------------
+Média do tempo: 36.5030 secs
+Média do fitness: 287693.7393 Gbps
+
+Execution 12: 5 Population - 50000 Generation - 0.30 Mutation - 1 second time limit
+Run 01 -> fitness=220586.52 | time=1.00
+Run 02 -> fitness=219638.90 | time=1.00
+Run 03 -> fitness=221397.97 | time=1.00
+Run 04 -> fitness=220822.85 | time=1.00
+Run 05 -> fitness=220217.46 | time=1.00
+Run 06 -> fitness=220934.55 | time=1.00
+Run 07 -> fitness=221654.41 | time=1.00
+Run 08 -> fitness=220490.87 | time=1.00
+Run 09 -> fitness=220577.27 | time=1.00
+Run 10 -> fitness=220586.14 | time=1.00
+Run 11 -> fitness=221297.81 | time=1.00
+Run 12 -> fitness=220802.98 | time=1.00
+Run 13 -> fitness=220021.52 | time=1.00
+Run 14 -> fitness=220815.55 | time=1.00
+Run 15 -> fitness=220306.99 | time=1.00
+Run 16 -> fitness=220747.99 | time=1.00
+Run 17 -> fitness=218784.62 | time=1.00
+Run 18 -> fitness=219762.65 | time=1.00
+Run 19 -> fitness=221362.03 | time=1.00
+Run 20 -> fitness=220872.03 | time=1.00
+Run 21 -> fitness=221567.90 | time=1.00
+Run 22 -> fitness=221128.83 | time=1.00
+Run 23 -> fitness=220484.22 | time=1.00
+Run 24 -> fitness=220787.93 | time=1.00
+Run 25 -> fitness=220164.55 | time=1.00
+Run 26 -> fitness=221067.78 | time=1.00
+Run 27 -> fitness=219662.61 | time=1.00
+Run 28 -> fitness=219810.81 | time=1.00
+Run 29 -> fitness=221076.76 | time=1.00
+Run 30 -> fitness=220581.18 | time=1.00
+----------------------
+Média do tempo: 1.0000 secs
+Média do fitness: 220600.4560 Gbps
+
+Execution 13: 5 Population - 50000 Generation - 0.30 Mutation - 2 second time limit
+Run 01 -> fitness=232805.23 | time=2.00
+Run 02 -> fitness=231963.43 | time=2.00
+Run 03 -> fitness=231761.75 | time=2.00
+Run 04 -> fitness=231494.64 | time=2.00
+Run 05 -> fitness=231869.95 | time=2.00
+Run 06 -> fitness=230906.14 | time=2.00
+Run 07 -> fitness=231072.28 | time=2.00
+Run 08 -> fitness=231571.38 | time=2.00
+Run 09 -> fitness=231716.50 | time=2.00
+Run 10 -> fitness=232168.73 | time=2.00
+Run 11 -> fitness=232308.18 | time=2.00
+Run 12 -> fitness=232144.14 | time=2.00
+Run 13 -> fitness=231291.74 | time=2.00
+Run 14 -> fitness=232594.09 | time=2.00
+Run 15 -> fitness=231279.23 | time=2.00
+Run 16 -> fitness=231697.07 | time=2.00
+Run 17 -> fitness=232220.07 | time=2.00
+Run 18 -> fitness=232706.89 | time=2.00
+Run 19 -> fitness=230109.92 | time=2.00
+Run 20 -> fitness=232484.47 | time=2.00
+Run 21 -> fitness=231353.19 | time=2.00
+Run 22 -> fitness=232025.87 | time=2.00
+Run 23 -> fitness=232667.05 | time=2.00
+Run 24 -> fitness=230339.71 | time=2.00
+Run 25 -> fitness=232317.73 | time=2.00
+Run 26 -> fitness=232528.80 | time=2.00
+Run 27 -> fitness=232021.65 | time=2.00
+Run 28 -> fitness=241551.49 | time=2.00
+Run 29 -> fitness=231818.80 | time=2.00
+Run 30 -> fitness=232233.15 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 232167.4423 Gbps
+
+Execution 14: 5 Population - 50000 Generation - 0.30 Mutation - 4 second time limit
+Run 01 -> fitness=245716.87 | time=4.00
+Run 02 -> fitness=244544.15 | time=4.00
+Run 03 -> fitness=243801.59 | time=4.00
+Run 04 -> fitness=246188.21 | time=4.00
+Run 05 -> fitness=244399.13 | time=4.00
+Run 06 -> fitness=243813.38 | time=4.00
+Run 07 -> fitness=243528.75 | time=4.00
+Run 08 -> fitness=246808.09 | time=4.00
+Run 09 -> fitness=245934.84 | time=4.00
+Run 10 -> fitness=245632.75 | time=4.00
+Run 11 -> fitness=245415.16 | time=4.00
+Run 12 -> fitness=245552.77 | time=4.00
+Run 13 -> fitness=245150.52 | time=4.00
+Run 14 -> fitness=246200.16 | time=4.00
+Run 15 -> fitness=245355.16 | time=4.00
+Run 16 -> fitness=246486.63 | time=4.00
+Run 17 -> fitness=246669.79 | time=4.00
+Run 18 -> fitness=246196.45 | time=4.00
+Run 19 -> fitness=245863.08 | time=4.00
+Run 20 -> fitness=245496.79 | time=4.00
+Run 21 -> fitness=245783.21 | time=4.00
+Run 22 -> fitness=246928.90 | time=4.00
+Run 23 -> fitness=245853.76 | time=4.00
+Run 24 -> fitness=245994.91 | time=4.00
+Run 25 -> fitness=245359.64 | time=4.00
+Run 26 -> fitness=245461.69 | time=4.00
+Run 27 -> fitness=244682.70 | time=4.00
+Run 28 -> fitness=245558.05 | time=4.00
+Run 29 -> fitness=244728.14 | time=4.00
+Run 30 -> fitness=245526.33 | time=4.00
+----------------------
+Média do tempo: 4.0000 secs
+Média do fitness: 245487.7200 Gbps
+
+Execution 15: 5 Population - 50000 Generation - 0.30 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=268844.19 | time=36.57
+Run 02 -> fitness=268364.06 | time=36.47
+Run 03 -> fitness=267452.88 | time=36.64
+Run 04 -> fitness=267718.79 | time=36.77
+Run 05 -> fitness=268690.09 | time=36.67
+Run 06 -> fitness=268366.48 | time=36.65
+Run 07 -> fitness=267744.94 | time=36.72
+Run 08 -> fitness=268114.20 | time=36.77
+Run 09 -> fitness=267110.39 | time=36.55
+Run 10 -> fitness=269100.64 | time=36.73
+Run 11 -> fitness=267076.45 | time=36.59
+Run 12 -> fitness=267152.31 | time=36.67
+Run 13 -> fitness=267885.73 | time=36.69
+Run 14 -> fitness=267549.98 | time=36.60
+Run 15 -> fitness=267895.71 | time=36.78
+Run 16 -> fitness=267049.60 | time=36.64
+Run 17 -> fitness=267665.98 | time=36.74
+Run 18 -> fitness=267860.49 | time=36.53
+Run 19 -> fitness=267070.49 | time=36.34
+Run 20 -> fitness=267660.76 | time=36.70
+Run 21 -> fitness=267689.65 | time=36.66
+Run 22 -> fitness=267612.11 | time=36.69
+Run 23 -> fitness=267091.53 | time=35.83
+Run 24 -> fitness=266789.87 | time=35.77
+Run 25 -> fitness=268445.59 | time=36.72
+Run 26 -> fitness=267974.04 | time=36.29
+Run 27 -> fitness=268670.80 | time=36.89
+Run 28 -> fitness=268035.13 | time=36.67
+Run 29 -> fitness=267757.97 | time=36.79
+Run 30 -> fitness=268116.49 | time=36.29
+----------------------
+Média do tempo: 36.5806 secs
+Média do fitness: 267818.5780 Gbps
+
+Execution 16: 5 Population - 100000 Generation - 0.15 Mutation - 1 second time limit
+Run 01 -> fitness=216223.78 | time=1.00
+Run 02 -> fitness=216927.15 | time=1.00
+Run 03 -> fitness=216289.89 | time=1.00
+Run 04 -> fitness=216300.97 | time=1.00
+Run 05 -> fitness=216079.02 | time=1.00
+Run 06 -> fitness=214803.87 | time=1.00
+Run 07 -> fitness=216527.09 | time=1.00
+Run 08 -> fitness=215147.23 | time=1.00
+Run 09 -> fitness=216371.88 | time=1.00
+Run 10 -> fitness=215663.64 | time=1.00
+Run 11 -> fitness=216126.71 | time=1.00
+Run 12 -> fitness=217365.60 | time=1.00
+Run 13 -> fitness=215920.02 | time=1.00
+Run 14 -> fitness=215616.30 | time=1.00
+Run 15 -> fitness=215980.52 | time=1.00
+Run 16 -> fitness=215633.29 | time=1.00
+Run 17 -> fitness=216166.34 | time=1.00
+Run 18 -> fitness=216542.04 | time=1.00
+Run 19 -> fitness=216240.83 | time=1.00
+Run 20 -> fitness=216165.70 | time=1.00
+Run 21 -> fitness=216253.92 | time=1.00
+Run 22 -> fitness=215156.89 | time=1.00
+Run 23 -> fitness=215289.09 | time=1.00
+Run 24 -> fitness=216581.16 | time=1.00
+Run 25 -> fitness=216619.79 | time=1.00
+Run 26 -> fitness=215663.13 | time=1.00
+Run 27 -> fitness=216446.13 | time=1.00
+Run 28 -> fitness=215714.24 | time=1.00
+Run 29 -> fitness=216614.83 | time=1.00
+Run 30 -> fitness=215951.09 | time=1.00
+----------------------
+Média do tempo: 1.0000 secs
+Média do fitness: 216079.4046 Gbps
+
+Execution 17: 5 Population - 100000 Generation - 0.15 Mutation - 2 second time limit
+Run 01 -> fitness=225746.69 | time=2.00
+Run 02 -> fitness=226850.99 | time=2.00
+Run 03 -> fitness=226076.83 | time=2.00
+Run 04 -> fitness=224908.07 | time=2.00
+Run 05 -> fitness=225084.69 | time=2.00
+Run 06 -> fitness=224676.95 | time=2.00
+Run 07 -> fitness=224176.13 | time=2.00
+Run 08 -> fitness=224990.96 | time=2.00
+Run 09 -> fitness=224985.16 | time=2.00
+Run 10 -> fitness=226220.14 | time=2.00
+Run 11 -> fitness=225263.05 | time=2.00
+Run 12 -> fitness=225296.23 | time=2.00
+Run 13 -> fitness=224884.55 | time=2.00
+Run 14 -> fitness=225664.58 | time=2.00
+Run 15 -> fitness=226114.07 | time=2.00
+Run 16 -> fitness=225717.00 | time=2.00
+Run 17 -> fitness=226689.59 | time=2.00
+Run 18 -> fitness=225264.27 | time=2.00
+Run 19 -> fitness=225299.50 | time=2.00
+Run 20 -> fitness=226615.67 | time=2.00
+Run 21 -> fitness=224931.53 | time=2.00
+Run 22 -> fitness=226220.98 | time=2.00
+Run 23 -> fitness=224809.92 | time=2.00
+Run 24 -> fitness=225435.93 | time=2.00
+Run 25 -> fitness=225321.49 | time=2.00
+Run 26 -> fitness=225848.59 | time=2.00
+Run 27 -> fitness=226823.78 | time=2.00
+Run 28 -> fitness=225235.52 | time=2.00
+Run 29 -> fitness=226206.58 | time=2.00
+Run 30 -> fitness=225971.48 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 225577.6973 Gbps
+
+Execution 18: 5 Population - 100000 Generation - 0.15 Mutation - 4 second time limit
+Run 01 -> fitness=239440.89 | time=4.00
+Run 02 -> fitness=240066.78 | time=4.00
+Run 03 -> fitness=239071.24 | time=4.00
+Run 04 -> fitness=240331.05 | time=4.00
+Run 05 -> fitness=240085.77 | time=4.00
+Run 06 -> fitness=239592.66 | time=4.00
+Run 07 -> fitness=239814.27 | time=4.00
+Run 08 -> fitness=239538.08 | time=4.00
+Run 09 -> fitness=241131.32 | time=4.00
+Run 10 -> fitness=240834.82 | time=4.00
+Run 11 -> fitness=240051.86 | time=4.00
+Run 12 -> fitness=239736.37 | time=4.00
+Run 13 -> fitness=240611.71 | time=4.00
+Run 14 -> fitness=239865.75 | time=4.00
+Run 15 -> fitness=240359.27 | time=4.00
+Run 16 -> fitness=239802.24 | time=4.00
+Run 17 -> fitness=239315.06 | time=4.00
+Run 18 -> fitness=238879.18 | time=4.00
+Run 19 -> fitness=239633.95 | time=4.00
+Run 20 -> fitness=238882.82 | time=4.00
+Run 21 -> fitness=238478.86 | time=4.00
+Run 22 -> fitness=240225.85 | time=4.00
+Run 23 -> fitness=239035.44 | time=4.00
+Run 24 -> fitness=240322.52 | time=4.00
+Run 25 -> fitness=240409.78 | time=4.00
+Run 26 -> fitness=239862.19 | time=4.00
+Run 27 -> fitness=240550.56 | time=4.00
+Run 28 -> fitness=239148.30 | time=4.00
+Run 29 -> fitness=239131.47 | time=4.00
+Run 30 -> fitness=240265.25 | time=4.00
+----------------------
+Média do tempo: 4.0000 secs
+Média do fitness: 239815.8436 Gbps
+
+Execution 19: 5 Population - 100000 Generation - 0.15 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=295636.54 | time=80.55
+Run 02 -> fitness=295353.06 | time=71.07
+Run 03 -> fitness=296707.14 | time=73.43
+Run 04 -> fitness=296664.49 | time=73.49
+Run 05 -> fitness=296802.09 | time=73.50
+Run 06 -> fitness=295636.83 | time=73.21
+Run 07 -> fitness=295248.85 | time=73.80
+Run 08 -> fitness=295935.92 | time=71.13
+Run 09 -> fitness=295713.02 | time=73.68
+Run 10 -> fitness=296839.26 | time=73.43
+Run 11 -> fitness=295792.31 | time=75.97
+Run 12 -> fitness=295625.97 | time=71.13
+Run 13 -> fitness=296834.11 | time=71.09
+Run 14 -> fitness=296661.97 | time=73.39
+Run 15 -> fitness=296507.62 | time=80.98
+Run 16 -> fitness=294716.47 | time=73.48
+Run 17 -> fitness=296052.42 | time=73.70
+Run 18 -> fitness=295900.32 | time=75.91
+Run 19 -> fitness=296597.83 | time=73.41
+Run 20 -> fitness=295597.27 | time=73.67
+Run 21 -> fitness=295552.70 | time=75.82
+Run 22 -> fitness=296268.28 | time=73.89
+Run 23 -> fitness=296091.88 | time=71.37
+Run 24 -> fitness=296055.81 | time=73.76
+Run 25 -> fitness=296838.82 | time=71.08
+Run 26 -> fitness=296057.94 | time=76.31
+Run 27 -> fitness=296470.82 | time=73.63
+Run 28 -> fitness=296364.96 | time=75.89
+Run 29 -> fitness=295960.61 | time=73.31
+Run 30 -> fitness=295573.39 | time=75.76
+----------------------
+Média do tempo: 74.0280 secs
+Média do fitness: 296068.6233 Gbps
+
+Execution 20: 5 Population - 100000 Generation - 0.30 Mutation - 1 second time limit
+Run 01 -> fitness=220028.78 | time=1.00
+Run 02 -> fitness=219433.67 | time=1.00
+Run 03 -> fitness=220561.45 | time=1.00
+Run 04 -> fitness=220027.64 | time=1.00
+Run 05 -> fitness=220169.99 | time=1.00
+Run 06 -> fitness=220293.55 | time=1.00
+Run 07 -> fitness=220301.67 | time=1.00
+Run 08 -> fitness=220672.69 | time=1.00
+Run 09 -> fitness=221058.05 | time=1.00
+Run 10 -> fitness=221135.89 | time=1.00
+Run 11 -> fitness=220317.49 | time=1.00
+Run 12 -> fitness=221806.23 | time=1.00
+Run 13 -> fitness=220692.49 | time=1.00
+Run 14 -> fitness=221135.47 | time=1.00
+Run 15 -> fitness=219815.35 | time=1.00
+Run 16 -> fitness=219703.72 | time=1.00
+Run 17 -> fitness=220322.81 | time=1.00
+Run 18 -> fitness=220061.38 | time=1.00
+Run 19 -> fitness=220818.05 | time=1.00
+Run 20 -> fitness=221129.28 | time=1.00
+Run 21 -> fitness=220757.58 | time=1.00
+Run 22 -> fitness=221625.26 | time=1.00
+Run 23 -> fitness=220864.68 | time=1.00
+Run 24 -> fitness=220259.71 | time=1.00
+Run 25 -> fitness=220910.40 | time=1.00
+Run 26 -> fitness=221449.48 | time=1.00
+Run 27 -> fitness=220780.18 | time=1.00
+Run 28 -> fitness=220699.21 | time=1.00
+Run 29 -> fitness=220054.81 | time=1.00
+Run 30 -> fitness=221389.81 | time=1.00
+----------------------
+Média do tempo: 1.0000 secs
+Média do fitness: 220609.2256 Gbps
+
+Execution 21: 5 Population - 100000 Generation - 0.30 Mutation - 2 second time limit
+Run 01 -> fitness=232825.86 | time=2.00
+Run 02 -> fitness=232253.01 | time=2.00
+Run 03 -> fitness=232174.03 | time=2.00
+Run 04 -> fitness=232104.21 | time=2.00
+Run 05 -> fitness=232046.46 | time=2.00
+Run 06 -> fitness=232805.87 | time=2.00
+Run 07 -> fitness=231293.65 | time=2.00
+Run 08 -> fitness=232006.61 | time=2.00
+Run 09 -> fitness=231630.79 | time=2.00
+Run 10 -> fitness=231880.81 | time=2.00
+Run 11 -> fitness=231761.91 | time=2.00
+Run 12 -> fitness=232160.33 | time=2.00
+Run 13 -> fitness=231638.80 | time=2.00
+Run 14 -> fitness=231849.94 | time=2.00
+Run 15 -> fitness=232491.33 | time=2.00
+Run 16 -> fitness=231067.58 | time=2.00
+Run 17 -> fitness=231694.49 | time=2.00
+Run 18 -> fitness=231781.01 | time=2.00
+Run 19 -> fitness=231870.54 | time=2.00
+Run 20 -> fitness=232417.80 | time=2.00
+Run 21 -> fitness=232196.61 | time=2.00
+Run 22 -> fitness=232106.12 | time=2.00
+Run 23 -> fitness=232237.31 | time=2.00
+Run 24 -> fitness=232061.01 | time=2.00
+Run 25 -> fitness=232560.60 | time=2.00
+Run 26 -> fitness=232066.90 | time=2.00
+Run 27 -> fitness=232703.14 | time=2.00
+Run 28 -> fitness=233438.77 | time=2.00
+Run 29 -> fitness=231902.94 | time=2.00
+Run 30 -> fitness=232777.00 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 232126.8476 Gbps
+
+Execution 22: 5 Population - 100000 Generation - 0.30 Mutation - 4 second time limit
+Run 01 -> fitness=246134.31 | time=4.00
+Run 02 -> fitness=245905.84 | time=4.00
+Run 03 -> fitness=246025.96 | time=4.00
+Run 04 -> fitness=245823.80 | time=4.00
+Run 05 -> fitness=245679.88 | time=4.00
+Run 06 -> fitness=245438.68 | time=4.00
+Run 07 -> fitness=245971.11 | time=4.00
+Run 08 -> fitness=245868.46 | time=4.00
+Run 09 -> fitness=244296.97 | time=4.00
+Run 10 -> fitness=246270.04 | time=4.00
+Run 11 -> fitness=246276.58 | time=4.00
+Run 12 -> fitness=245283.36 | time=4.00
+Run 13 -> fitness=246026.33 | time=4.00
+Run 14 -> fitness=245923.20 | time=4.00
+Run 15 -> fitness=245251.02 | time=4.00
+Run 16 -> fitness=245395.90 | time=4.00
+Run 17 -> fitness=245562.17 | time=4.00
+Run 18 -> fitness=246533.74 | time=4.00
+Run 19 -> fitness=246021.73 | time=4.00
+Run 20 -> fitness=246090.86 | time=4.00
+Run 21 -> fitness=246106.71 | time=4.00
+Run 22 -> fitness=246044.67 | time=4.00
+Run 23 -> fitness=246074.52 | time=4.00
+Run 24 -> fitness=245632.95 | time=4.00
+Run 25 -> fitness=245318.55 | time=4.00
+Run 26 -> fitness=245212.62 | time=4.00
+Run 27 -> fitness=245351.20 | time=4.00
+Run 28 -> fitness=245957.28 | time=4.00
+Run 29 -> fitness=245948.21 | time=4.00
+Run 30 -> fitness=244099.13 | time=4.00
+----------------------
+Média do tempo: 4.0000 secs
+Média do fitness: 245717.5260 Gbps
+
+Execution 23: 5 Population - 100000 Generation - 0.30 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=267801.41 | time=72.69
+Run 02 -> fitness=267147.11 | time=73.50
+Run 03 -> fitness=267814.49 | time=78.45
+Run 04 -> fitness=267413.59 | time=73.37
+Run 05 -> fitness=268532.98 | time=73.69
+Run 06 -> fitness=267460.66 | time=73.11
+Run 07 -> fitness=267872.85 | time=78.64
+Run 08 -> fitness=268660.14 | time=73.02
+Run 09 -> fitness=267395.32 | time=72.64
+Run 10 -> fitness=268074.62 | time=73.29
+Run 11 -> fitness=267201.38 | time=78.56
+Run 12 -> fitness=267230.85 | time=72.69
+Run 13 -> fitness=268195.65 | time=73.55
+Run 14 -> fitness=266729.53 | time=73.18
+Run 15 -> fitness=267748.99 | time=78.67
+Run 16 -> fitness=267577.12 | time=73.73
+Run 17 -> fitness=268828.51 | time=73.15
+Run 18 -> fitness=268153.45 | time=72.63
+Run 19 -> fitness=268663.11 | time=73.36
+Run 20 -> fitness=267666.07 | time=82.26
+Run 21 -> fitness=268457.06 | time=73.61
+Run 22 -> fitness=268389.32 | time=78.56
+Run 23 -> fitness=268046.70 | time=73.31
+Run 24 -> fitness=267673.60 | time=78.51
+Run 25 -> fitness=269052.18 | time=73.39
+Run 26 -> fitness=267158.11 | time=73.26
+Run 27 -> fitness=267715.28 | time=73.21
+Run 28 -> fitness=266788.60 | time=73.58
+Run 29 -> fitness=267138.70 | time=72.61
+Run 30 -> fitness=268183.86 | time=78.90
+----------------------
+Média do tempo: 74.7706 secs
+Média do fitness: 267825.7080 Gbps
+
+Execution 24: 10 Population - 30000 Generation - 0.15 Mutation - 1 second time limit
+Run 01 -> fitness=214151.95 | time=1.00
+Run 02 -> fitness=213921.59 | time=1.00
+Run 03 -> fitness=219805.43 | time=1.00
+Run 04 -> fitness=219109.22 | time=1.00
+Run 05 -> fitness=215145.84 | time=1.00
+Run 06 -> fitness=219730.37 | time=1.00
+Run 07 -> fitness=213775.98 | time=1.00
+Run 08 -> fitness=213420.52 | time=1.00
+Run 09 -> fitness=215661.35 | time=1.00
+Run 10 -> fitness=219425.16 | time=1.00
+Run 11 -> fitness=214688.21 | time=1.00
+Run 12 -> fitness=219265.03 | time=1.00
+Run 13 -> fitness=213572.20 | time=1.00
+Run 14 -> fitness=219287.06 | time=1.00
+Run 15 -> fitness=214410.17 | time=1.00
+Run 16 -> fitness=214742.23 | time=1.00
+Run 17 -> fitness=213694.55 | time=1.00
+Run 18 -> fitness=214067.51 | time=1.00
+Run 19 -> fitness=214031.85 | time=1.00
+Run 20 -> fitness=214059.91 | time=1.00
+Run 21 -> fitness=214567.87 | time=1.00
+Run 22 -> fitness=213905.05 | time=1.00
+Run 23 -> fitness=218804.26 | time=1.00
+Run 24 -> fitness=214541.77 | time=1.00
+Run 25 -> fitness=213893.50 | time=1.00
+Run 26 -> fitness=215405.74 | time=1.00
+Run 27 -> fitness=213654.22 | time=1.00
+Run 28 -> fitness=218711.97 | time=1.00
+Run 29 -> fitness=214676.15 | time=1.00
+Run 30 -> fitness=219185.21 | time=1.00
+----------------------
+Média do tempo: 1.0000 secs
+Média do fitness: 215777.0623 Gbps
+
+Execution 25: 10 Population - 30000 Generation - 0.15 Mutation - 2 second time limit
+Run 01 -> fitness=231791.16 | time=2.00
+Run 02 -> fitness=223169.12 | time=2.00
+Run 03 -> fitness=231617.46 | time=2.00
+Run 04 -> fitness=231236.33 | time=2.00
+Run 05 -> fitness=223106.53 | time=2.00
+Run 06 -> fitness=223518.24 | time=2.00
+Run 07 -> fitness=224010.25 | time=2.00
+Run 08 -> fitness=223614.86 | time=2.00
+Run 09 -> fitness=231153.28 | time=2.00
+Run 10 -> fitness=224068.46 | time=2.00
+Run 11 -> fitness=222976.67 | time=2.00
+Run 12 -> fitness=231472.54 | time=2.00
+Run 13 -> fitness=224045.55 | time=2.00
+Run 14 -> fitness=231156.52 | time=2.00
+Run 15 -> fitness=231401.92 | time=2.00
+Run 16 -> fitness=222671.00 | time=2.00
+Run 17 -> fitness=222649.36 | time=2.00
+Run 18 -> fitness=223092.31 | time=2.00
+Run 19 -> fitness=223519.41 | time=2.00
+Run 20 -> fitness=223274.66 | time=2.00
+Run 21 -> fitness=222660.11 | time=2.00
+Run 22 -> fitness=223372.84 | time=2.00
+Run 23 -> fitness=230014.97 | time=2.00
+Run 24 -> fitness=222668.95 | time=2.00
+Run 25 -> fitness=222774.47 | time=2.00
+Run 26 -> fitness=222724.24 | time=2.00
+Run 27 -> fitness=224112.85 | time=2.00
+Run 28 -> fitness=231119.13 | time=2.00
+Run 29 -> fitness=231721.54 | time=2.00
+Run 30 -> fitness=222868.24 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 225919.4323 Gbps
+
+Execution 26: 10 Population - 30000 Generation - 0.15 Mutation - 4 second time limit
+Run 01 -> fitness=236203.51 | time=4.00
+Run 02 -> fitness=236331.86 | time=4.00
+Run 03 -> fitness=248023.74 | time=4.00
+Run 04 -> fitness=236110.58 | time=4.00
+Run 05 -> fitness=247993.31 | time=4.00
+Run 06 -> fitness=236508.30 | time=4.00
+Run 07 -> fitness=236743.38 | time=4.00
+Run 08 -> fitness=236725.84 | time=4.00
+Run 09 -> fitness=236756.49 | time=4.00
+Run 10 -> fitness=237019.64 | time=4.00
+Run 11 -> fitness=247900.18 | time=4.00
+Run 12 -> fitness=236744.01 | time=4.00
+Run 13 -> fitness=248320.12 | time=4.00
+Run 14 -> fitness=236429.66 | time=4.00
+Run 15 -> fitness=236382.92 | time=4.00
+Run 16 -> fitness=248313.93 | time=4.00
+Run 17 -> fitness=236715.84 | time=4.00
+Run 18 -> fitness=236446.46 | time=4.00
+Run 19 -> fitness=247928.13 | time=4.00
+Run 20 -> fitness=237776.21 | time=4.00
+Run 21 -> fitness=236105.90 | time=4.00
+Run 22 -> fitness=236038.70 | time=4.00
+Run 23 -> fitness=248025.56 | time=4.00
+Run 24 -> fitness=248365.96 | time=4.00
+Run 25 -> fitness=236896.45 | time=4.00
+Run 26 -> fitness=247697.80 | time=4.00
+Run 27 -> fitness=237773.43 | time=4.00
+Run 28 -> fitness=247941.45 | time=4.00
+Run 29 -> fitness=236879.72 | time=4.00
+Run 30 -> fitness=236827.97 | time=4.00
+----------------------
+Média do tempo: 4.0000 secs
+Média do fitness: 240464.2350 Gbps
+
+Execution 27: 10 Population - 30000 Generation - 0.15 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=297455.80 | time=40.89
+Run 02 -> fitness=298117.51 | time=40.94
+Run 03 -> fitness=297400.68 | time=25.77
+Run 04 -> fitness=297850.13 | time=40.85
+Run 05 -> fitness=298264.78 | time=41.14
+Run 06 -> fitness=298368.50 | time=40.91
+Run 07 -> fitness=298146.26 | time=41.00
+Run 08 -> fitness=297646.98 | time=40.77
+Run 09 -> fitness=298069.62 | time=40.88
+Run 10 -> fitness=298218.94 | time=40.80
+Run 11 -> fitness=297889.69 | time=41.03
+Run 12 -> fitness=298189.68 | time=25.78
+Run 13 -> fitness=297323.59 | time=41.12
+Run 14 -> fitness=297917.28 | time=41.05
+Run 15 -> fitness=297842.94 | time=41.00
+Run 16 -> fitness=297857.36 | time=41.42
+Run 17 -> fitness=297090.77 | time=41.11
+Run 18 -> fitness=297287.93 | time=41.04
+Run 19 -> fitness=297630.87 | time=41.07
+Run 20 -> fitness=297067.66 | time=41.03
+Run 21 -> fitness=297601.82 | time=25.80
+Run 22 -> fitness=297745.84 | time=25.92
+Run 23 -> fitness=297806.07 | time=41.09
+Run 24 -> fitness=297886.94 | time=41.05
+Run 25 -> fitness=297387.93 | time=40.92
+Run 26 -> fitness=297196.21 | time=40.95
+Run 27 -> fitness=297859.42 | time=41.05
+Run 28 -> fitness=298398.61 | time=40.92
+Run 29 -> fitness=298065.07 | time=41.05
+Run 30 -> fitness=297322.13 | time=41.31
+----------------------
+Média do tempo: 38.9886 secs
+Média do fitness: 297763.5670 Gbps
+
+Execution 28: 10 Population - 30000 Generation - 0.30 Mutation - 1 second time limit
+Run 01 -> fitness=218060.71 | time=1.00
+Run 02 -> fitness=217867.20 | time=1.00
+Run 03 -> fitness=217651.92 | time=1.00
+Run 04 -> fitness=217162.26 | time=1.00
+Run 05 -> fitness=217742.89 | time=1.00
+Run 06 -> fitness=218532.21 | time=1.00
+Run 07 -> fitness=217008.25 | time=1.00
+Run 08 -> fitness=217808.94 | time=1.00
+Run 09 -> fitness=223089.02 | time=1.00
+Run 10 -> fitness=217971.06 | time=1.00
+Run 11 -> fitness=217587.90 | time=1.00
+Run 12 -> fitness=216289.02 | time=1.00
+Run 13 -> fitness=217999.98 | time=1.00
+Run 14 -> fitness=215767.04 | time=1.00
+Run 15 -> fitness=218566.90 | time=1.00
+Run 16 -> fitness=218010.53 | time=1.00
+Run 17 -> fitness=217213.70 | time=1.00
+Run 18 -> fitness=218017.99 | time=1.00
+Run 19 -> fitness=217977.01 | time=1.00
+Run 20 -> fitness=217876.41 | time=1.00
+Run 21 -> fitness=216850.70 | time=1.00
+Run 22 -> fitness=217654.73 | time=1.00
+Run 23 -> fitness=223876.21 | time=1.00
+Run 24 -> fitness=223920.46 | time=1.00
+Run 25 -> fitness=223336.80 | time=1.00
+Run 26 -> fitness=223728.18 | time=1.00
+Run 27 -> fitness=223799.87 | time=1.00
+Run 28 -> fitness=218228.14 | time=1.00
+Run 29 -> fitness=216817.33 | time=1.00
+Run 30 -> fitness=218274.50 | time=1.00
+----------------------
+Média do tempo: 1.0000 secs
+Média do fitness: 218822.9286 Gbps
+
+Execution 29: 10 Population - 30000 Generation - 0.30 Mutation - 2 second time limit
+Run 01 -> fitness=237819.09 | time=2.00
+Run 02 -> fitness=228056.09 | time=2.00
+Run 03 -> fitness=228049.78 | time=2.00
+Run 04 -> fitness=227937.91 | time=2.00
+Run 05 -> fitness=228461.99 | time=2.00
+Run 06 -> fitness=227618.64 | time=2.00
+Run 07 -> fitness=228650.39 | time=2.00
+Run 08 -> fitness=229041.62 | time=2.00
+Run 09 -> fitness=228387.61 | time=2.00
+Run 10 -> fitness=228538.23 | time=2.00
+Run 11 -> fitness=228030.23 | time=2.00
+Run 12 -> fitness=228122.51 | time=2.00
+Run 13 -> fitness=228223.87 | time=2.00
+Run 14 -> fitness=238186.63 | time=2.00
+Run 15 -> fitness=228729.06 | time=2.00
+Run 16 -> fitness=227701.09 | time=2.00
+Run 17 -> fitness=236913.30 | time=2.00
+Run 18 -> fitness=237119.77 | time=2.00
+Run 19 -> fitness=227878.19 | time=2.00
+Run 20 -> fitness=237379.76 | time=2.00
+Run 21 -> fitness=228321.86 | time=2.00
+Run 22 -> fitness=237855.28 | time=2.00
+Run 23 -> fitness=228642.21 | time=2.00
+Run 24 -> fitness=227717.71 | time=2.00
+Run 25 -> fitness=228227.69 | time=2.00
+Run 26 -> fitness=228733.78 | time=2.00
+Run 27 -> fitness=228827.04 | time=2.00
+Run 28 -> fitness=228610.49 | time=2.00
+Run 29 -> fitness=227606.85 | time=2.00
+Run 30 -> fitness=238133.05 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 230450.7240 Gbps
+
+Execution 30: 10 Population - 30000 Generation - 0.30 Mutation - 4 second time limit
+Run 01 -> fitness=243649.57 | time=4.00
+Run 02 -> fitness=253046.58 | time=4.00
+Run 03 -> fitness=243353.19 | time=4.00
+Run 04 -> fitness=253686.95 | time=4.00
+Run 05 -> fitness=242867.86 | time=4.00
+Run 06 -> fitness=242610.84 | time=4.00
+Run 07 -> fitness=243768.06 | time=4.00
+Run 08 -> fitness=254053.05 | time=4.00
+Run 09 -> fitness=242829.49 | time=4.00
+Run 10 -> fitness=242293.36 | time=4.00
+Run 11 -> fitness=253397.39 | time=4.00
+Run 12 -> fitness=253866.18 | time=4.00
+Run 13 -> fitness=243007.07 | time=4.00
+Run 14 -> fitness=253039.93 | time=4.00
+Run 15 -> fitness=242450.50 | time=4.00
+Run 16 -> fitness=243214.53 | time=4.00
+Run 17 -> fitness=242774.86 | time=4.00
+Run 18 -> fitness=242885.61 | time=4.00
+Run 19 -> fitness=242907.17 | time=4.00
+Run 20 -> fitness=242466.79 | time=4.00
+Run 21 -> fitness=243696.25 | time=4.00
+Run 22 -> fitness=243901.88 | time=4.00
+Run 23 -> fitness=243088.51 | time=4.00
+Run 24 -> fitness=243190.74 | time=4.00
+Run 25 -> fitness=242806.96 | time=4.00
+Run 26 -> fitness=254326.78 | time=4.00
+Run 27 -> fitness=243113.99 | time=4.00
+Run 28 -> fitness=242982.10 | time=4.00
+Run 29 -> fitness=243040.59 | time=4.00
+Run 30 -> fitness=243214.73 | time=4.00
+----------------------
+Média do tempo: 4.0000 secs
+Média do fitness: 245517.7170 Gbps
+
+Execution 31: 10 Population - 30000 Generation - 0.30 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=292177.49 | time=26.64
+Run 02 -> fitness=291180.86 | time=41.80
+Run 03 -> fitness=290965.40 | time=41.67
+Run 04 -> fitness=292233.66 | time=41.37
+Run 05 -> fitness=291379.50 | time=41.60
+Run 06 -> fitness=291268.31 | time=41.69
+Run 07 -> fitness=292286.22 | time=41.67
+Run 08 -> fitness=291057.31 | time=41.62
+Run 09 -> fitness=291300.61 | time=41.48
+Run 10 -> fitness=291040.73 | time=41.65
+Run 11 -> fitness=291246.22 | time=41.73
+Run 12 -> fitness=291390.55 | time=26.60
+Run 13 -> fitness=291563.20 | time=41.40
+Run 14 -> fitness=291576.16 | time=26.62
+Run 15 -> fitness=292050.89 | time=41.68
+Run 16 -> fitness=290946.18 | time=41.65
+Run 17 -> fitness=291069.07 | time=41.45
+Run 18 -> fitness=291661.96 | time=41.67
+Run 19 -> fitness=291907.50 | time=41.63
+Run 20 -> fitness=290873.70 | time=41.74
+Run 21 -> fitness=291409.25 | time=41.85
+Run 22 -> fitness=291723.22 | time=26.86
+Run 23 -> fitness=291206.46 | time=26.68
+Run 24 -> fitness=291664.73 | time=41.27
+Run 25 -> fitness=290870.47 | time=41.53
+Run 26 -> fitness=291376.69 | time=41.44
+Run 27 -> fitness=291068.63 | time=26.67
+Run 28 -> fitness=291513.94 | time=41.59
+Run 29 -> fitness=291962.52 | time=41.63
+Run 30 -> fitness=290966.24 | time=41.54
+----------------------
+Média do tempo: 38.6140 secs
+Média do fitness: 291431.2556 Gbps
+
+Execution 32: 10 Population - 50000 Generation - 0.15 Mutation - 1 second time limit
+Run 01 -> fitness=214659.14 | time=1.00
+Run 02 -> fitness=214871.49 | time=1.00
+Run 03 -> fitness=214374.62 | time=1.00
+Run 04 -> fitness=213872.48 | time=1.00
+Run 05 -> fitness=219546.07 | time=1.00
+Run 06 -> fitness=214311.94 | time=1.00
+Run 07 -> fitness=213973.79 | time=1.00
+Run 08 -> fitness=220649.54 | time=1.00
+Run 09 -> fitness=214867.45 | time=1.00
+Run 10 -> fitness=219415.96 | time=1.00
+Run 11 -> fitness=215572.08 | time=1.00
+Run 12 -> fitness=214148.58 | time=1.00
+Run 13 -> fitness=214084.72 | time=1.00
+Run 14 -> fitness=213194.76 | time=1.00
+Run 15 -> fitness=219618.26 | time=1.00
+Run 16 -> fitness=214410.06 | time=1.00
+Run 17 -> fitness=213392.32 | time=1.00
+Run 18 -> fitness=219609.79 | time=1.00
+Run 19 -> fitness=213676.43 | time=1.00
+Run 20 -> fitness=219722.44 | time=1.00
+Run 21 -> fitness=214746.65 | time=1.00
+Run 22 -> fitness=214374.89 | time=1.00
+Run 23 -> fitness=214171.12 | time=1.00
+Run 24 -> fitness=214086.25 | time=1.00
+Run 25 -> fitness=214457.01 | time=1.00
+Run 26 -> fitness=220049.97 | time=1.00
+Run 27 -> fitness=218779.91 | time=1.00
+Run 28 -> fitness=214087.98 | time=1.00
+Run 29 -> fitness=215086.33 | time=1.00
+Run 30 -> fitness=213632.25 | time=1.00
+----------------------
+Média do tempo: 1.0000 secs
+Média do fitness: 215714.8093 Gbps
+
+Execution 33: 10 Population - 50000 Generation - 0.15 Mutation - 2 second time limit
+Run 01 -> fitness=223296.02 | time=2.00
+Run 02 -> fitness=223122.17 | time=2.00
+Run 03 -> fitness=222952.58 | time=2.00
+Run 04 -> fitness=223865.08 | time=2.00
+Run 05 -> fitness=222612.26 | time=2.00
+Run 06 -> fitness=222648.26 | time=2.00
+Run 07 -> fitness=223213.25 | time=2.00
+Run 08 -> fitness=222404.07 | time=2.00
+Run 09 -> fitness=231631.91 | time=2.00
+Run 10 -> fitness=223708.06 | time=2.00
+Run 11 -> fitness=230949.66 | time=2.00
+Run 12 -> fitness=231188.64 | time=2.00
+Run 13 -> fitness=223281.46 | time=2.00
+Run 14 -> fitness=223302.69 | time=2.00
+Run 15 -> fitness=223195.49 | time=2.00
+Run 16 -> fitness=230901.63 | time=2.00
+Run 17 -> fitness=223209.76 | time=2.00
+Run 18 -> fitness=231722.82 | time=2.00
+Run 19 -> fitness=222742.57 | time=2.00
+Run 20 -> fitness=223485.33 | time=2.00
+Run 21 -> fitness=223282.16 | time=2.00
+Run 22 -> fitness=223186.50 | time=2.00
+Run 23 -> fitness=223147.37 | time=2.00
+Run 24 -> fitness=222478.27 | time=2.00
+Run 25 -> fitness=222959.03 | time=2.00
+Run 26 -> fitness=232506.17 | time=2.00
+Run 27 -> fitness=221999.31 | time=2.00
+Run 28 -> fitness=221339.08 | time=2.00
+Run 29 -> fitness=222296.75 | time=2.00
+Run 30 -> fitness=221926.03 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 224618.4793 Gbps
+
+Execution 34: 10 Population - 50000 Generation - 0.15 Mutation - 4 second time limit
+Run 01 -> fitness=236849.92 | time=4.00
+Run 02 -> fitness=236244.44 | time=4.00
+Run 03 -> fitness=248049.00 | time=4.00
+Run 04 -> fitness=236763.07 | time=4.00
+Run 05 -> fitness=235821.48 | time=4.00
+Run 06 -> fitness=236888.73 | time=4.00
+Run 07 -> fitness=236910.20 | time=4.00
+Run 08 -> fitness=236708.90 | time=4.00
+Run 09 -> fitness=237415.78 | time=4.00
+Run 10 -> fitness=236269.84 | time=4.00
+Run 11 -> fitness=236234.31 | time=4.00
+Run 12 -> fitness=235088.95 | time=4.00
+Run 13 -> fitness=237132.38 | time=4.00
+Run 14 -> fitness=237648.58 | time=4.00
+Run 15 -> fitness=237019.14 | time=4.00
+Run 16 -> fitness=247866.32 | time=4.00
+Run 17 -> fitness=236454.34 | time=4.00
+Run 18 -> fitness=237035.16 | time=4.00
+Run 19 -> fitness=237726.48 | time=4.00
+Run 20 -> fitness=237418.72 | time=4.00
+Run 21 -> fitness=236663.13 | time=4.00
+Run 22 -> fitness=247649.54 | time=4.00
+Run 23 -> fitness=237699.26 | time=4.00
+Run 24 -> fitness=236273.49 | time=4.00
+Run 25 -> fitness=236163.40 | time=4.00
+Run 26 -> fitness=237288.55 | time=4.00
+Run 27 -> fitness=235394.71 | time=4.00
+Run 28 -> fitness=236762.80 | time=4.00
+Run 29 -> fitness=236600.82 | time=4.00
+Run 30 -> fitness=236954.04 | time=4.00
+----------------------
+Média do tempo: 4.0000 secs
+Média do fitness: 237833.1826 Gbps
+
+Execution 35: 10 Population - 50000 Generation - 0.15 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=308918.08 | time=68.69
+Run 02 -> fitness=309204.54 | time=68.23
+Run 03 -> fitness=308378.62 | time=68.55
+Run 04 -> fitness=309415.34 | time=68.34
+Run 05 -> fitness=309232.01 | time=68.19
+Run 06 -> fitness=308905.06 | time=68.26
+Run 07 -> fitness=309174.61 | time=68.92
+Run 08 -> fitness=309446.83 | time=43.43
+Run 09 -> fitness=308979.21 | time=68.42
+Run 10 -> fitness=309447.08 | time=43.20
+Run 11 -> fitness=309121.89 | time=43.24
+Run 12 -> fitness=309247.48 | time=68.35
+Run 13 -> fitness=308739.87 | time=68.67
+Run 14 -> fitness=309053.97 | time=68.50
+Run 15 -> fitness=309009.54 | time=68.37
+Run 16 -> fitness=309098.54 | time=68.60
+Run 17 -> fitness=309552.52 | time=68.80
+Run 18 -> fitness=308812.21 | time=43.29
+Run 19 -> fitness=308680.62 | time=43.33
+Run 20 -> fitness=308434.41 | time=68.09
+Run 21 -> fitness=309001.01 | time=68.45
+Run 22 -> fitness=309180.36 | time=68.14
+Run 23 -> fitness=309251.24 | time=68.52
+Run 24 -> fitness=308840.83 | time=68.61
+Run 25 -> fitness=308420.10 | time=42.98
+Run 26 -> fitness=309047.30 | time=68.60
+Run 27 -> fitness=309291.56 | time=68.20
+Run 28 -> fitness=309012.95 | time=68.60
+Run 29 -> fitness=308591.03 | time=68.44
+Run 30 -> fitness=308856.49 | time=43.28
+----------------------
+Média do tempo: 62.5763 secs
+Média do fitness: 309011.5100 Gbps
+
+Execution 36: 10 Population - 50000 Generation - 0.30 Mutation - 1 second time limit
+Run 01 -> fitness=217931.98 | time=1.00
+Run 02 -> fitness=216839.17 | time=1.00
+Run 03 -> fitness=216586.17 | time=1.00
+Run 04 -> fitness=217138.92 | time=1.00
+Run 05 -> fitness=218069.64 | time=1.00
+Run 06 -> fitness=223197.27 | time=1.00
+Run 07 -> fitness=224149.27 | time=1.00
+Run 08 -> fitness=218116.67 | time=1.00
+Run 09 -> fitness=217997.19 | time=1.00
+Run 10 -> fitness=217424.36 | time=1.00
+Run 11 -> fitness=217743.72 | time=1.00
+Run 12 -> fitness=217202.22 | time=1.00
+Run 13 -> fitness=222982.90 | time=1.00
+Run 14 -> fitness=218225.23 | time=1.00
+Run 15 -> fitness=217464.97 | time=1.00
+Run 16 -> fitness=224369.75 | time=1.00
+Run 17 -> fitness=222943.68 | time=1.00
+Run 18 -> fitness=217509.98 | time=1.00
+Run 19 -> fitness=217390.02 | time=1.00
+Run 20 -> fitness=217511.23 | time=1.00
+Run 21 -> fitness=217224.47 | time=1.00
+Run 22 -> fitness=216796.69 | time=1.00
+Run 23 -> fitness=219009.79 | time=1.00
+Run 24 -> fitness=217339.60 | time=1.00
+Run 25 -> fitness=218127.07 | time=1.00
+Run 26 -> fitness=217319.66 | time=1.00
+Run 27 -> fitness=217845.38 | time=1.00
+Run 28 -> fitness=218545.54 | time=1.00
+Run 29 -> fitness=217656.09 | time=1.00
+Run 30 -> fitness=223877.30 | time=1.00
+----------------------
+Média do tempo: 1.0000 secs
+Média do fitness: 218817.8643 Gbps
+
+Execution 37: 10 Population - 50000 Generation - 0.30 Mutation - 2 second time limit
+Run 01 -> fitness=228160.13 | time=2.00
+Run 02 -> fitness=226465.89 | time=2.00
+Run 03 -> fitness=228632.73 | time=2.00
+Run 04 -> fitness=227762.51 | time=2.00
+Run 05 -> fitness=227707.45 | time=2.00
+Run 06 -> fitness=228964.99 | time=2.00
+Run 07 -> fitness=237461.07 | time=2.00
+Run 08 -> fitness=237183.11 | time=2.00
+Run 09 -> fitness=237433.92 | time=2.00
+Run 10 -> fitness=237399.48 | time=2.00
+Run 11 -> fitness=228576.05 | time=2.00
+Run 12 -> fitness=228225.32 | time=2.00
+Run 13 -> fitness=228272.57 | time=2.00
+Run 14 -> fitness=229060.54 | time=2.00
+Run 15 -> fitness=236693.83 | time=2.00
+Run 16 -> fitness=228578.17 | time=2.00
+Run 17 -> fitness=237521.93 | time=2.00
+Run 18 -> fitness=228461.72 | time=2.00
+Run 19 -> fitness=238689.53 | time=2.00
+Run 20 -> fitness=228854.19 | time=2.00
+Run 21 -> fitness=228039.99 | time=2.00
+Run 22 -> fitness=237215.72 | time=2.00
+Run 23 -> fitness=237414.37 | time=2.00
+Run 24 -> fitness=228719.79 | time=2.00
+Run 25 -> fitness=228862.78 | time=2.00
+Run 26 -> fitness=227588.47 | time=2.00
+Run 27 -> fitness=237417.09 | time=2.00
+Run 28 -> fitness=228465.12 | time=2.00
+Run 29 -> fitness=237152.08 | time=2.00
+Run 30 -> fitness=237228.05 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 231940.2863 Gbps
+
+Execution 38: 10 Population - 50000 Generation - 0.30 Mutation - 4 second time limit
+Run 01 -> fitness=243129.33 | time=4.00
+Run 02 -> fitness=242866.82 | time=4.00
+Run 03 -> fitness=242764.26 | time=4.00
+Run 04 -> fitness=242301.70 | time=4.00
+Run 05 -> fitness=242926.22 | time=4.00
+Run 06 -> fitness=244271.76 | time=4.00
+Run 07 -> fitness=253400.89 | time=4.00
+Run 08 -> fitness=243064.15 | time=4.00
+Run 09 -> fitness=254131.43 | time=4.00
+Run 10 -> fitness=242717.95 | time=4.00
+Run 11 -> fitness=254295.24 | time=4.00
+Run 12 -> fitness=254432.37 | time=4.00
+Run 13 -> fitness=242739.61 | time=4.00
+Run 14 -> fitness=243300.07 | time=4.00
+Run 15 -> fitness=243490.79 | time=4.00
+Run 16 -> fitness=242444.92 | time=4.00
+Run 17 -> fitness=253527.06 | time=4.00
+Run 18 -> fitness=253912.63 | time=4.00
+Run 19 -> fitness=241988.25 | time=4.00
+Run 20 -> fitness=253359.38 | time=4.00
+Run 21 -> fitness=242492.93 | time=4.00
+Run 22 -> fitness=242910.60 | time=4.00
+Run 23 -> fitness=243311.74 | time=4.00
+Run 24 -> fitness=242831.54 | time=4.00
+Run 25 -> fitness=254229.70 | time=4.00
+Run 26 -> fitness=243308.69 | time=4.00
+Run 27 -> fitness=242734.60 | time=4.00
+Run 28 -> fitness=242181.83 | time=4.00
+Run 29 -> fitness=243675.32 | time=4.00
+Run 30 -> fitness=243344.61 | time=4.00
+----------------------
+Média do tempo: 4.0000 secs
+Média do fitness: 245869.5463 Gbps
+
+Execution 39: 10 Population - 50000 Generation - 0.30 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=296124.05 | time=69.46
+Run 02 -> fitness=295901.75 | time=69.36
+Run 03 -> fitness=296429.04 | time=69.46
+Run 04 -> fitness=296521.38 | time=69.42
+Run 05 -> fitness=295952.71 | time=69.87
+Run 06 -> fitness=296871.95 | time=44.56
+Run 07 -> fitness=295947.81 | time=69.18
+Run 08 -> fitness=296035.61 | time=69.29
+Run 09 -> fitness=295417.65 | time=69.44
+Run 10 -> fitness=296357.88 | time=69.40
+Run 11 -> fitness=295885.96 | time=69.58
+Run 12 -> fitness=295585.50 | time=68.90
+Run 13 -> fitness=296671.59 | time=69.47
+Run 14 -> fitness=296438.85 | time=69.25
+Run 15 -> fitness=295485.98 | time=69.14
+Run 16 -> fitness=296066.66 | time=69.14
+Run 17 -> fitness=296325.10 | time=44.37
+Run 18 -> fitness=295461.00 | time=69.07
+Run 19 -> fitness=296383.22 | time=69.34
+Run 20 -> fitness=296335.47 | time=69.87
+Run 21 -> fitness=296369.46 | time=69.57
+Run 22 -> fitness=295764.45 | time=68.89
+Run 23 -> fitness=295500.55 | time=69.53
+Run 24 -> fitness=296456.91 | time=44.41
+Run 25 -> fitness=296316.45 | time=69.17
+Run 26 -> fitness=296486.92 | time=69.32
+Run 27 -> fitness=296388.36 | time=69.97
+Run 28 -> fitness=296423.24 | time=69.21
+Run 29 -> fitness=295661.94 | time=69.13
+Run 30 -> fitness=295807.48 | time=44.47
+----------------------
+Média do tempo: 66.0413 secs
+Média do fitness: 296112.4973 Gbps
+
+Execution 40: 10 Population - 100000 Generation - 0.15 Mutation - 1 second time limit
+Run 01 -> fitness=215174.42 | time=1.00
+Run 02 -> fitness=213946.83 | time=1.00
+Run 03 -> fitness=214626.98 | time=1.00
+Run 04 -> fitness=213892.80 | time=1.00
+Run 05 -> fitness=213779.43 | time=1.00
+Run 06 -> fitness=219324.00 | time=1.00
+Run 07 -> fitness=214472.92 | time=1.00
+Run 08 -> fitness=214358.71 | time=1.00
+Run 09 -> fitness=214827.81 | time=1.00
+Run 10 -> fitness=213660.96 | time=1.00
+Run 11 -> fitness=214065.09 | time=1.00
+Run 12 -> fitness=214296.10 | time=1.00
+Run 13 -> fitness=214976.94 | time=1.00
+Run 14 -> fitness=214003.58 | time=1.00
+Run 15 -> fitness=213517.91 | time=1.00
+Run 16 -> fitness=214035.39 | time=1.00
+Run 17 -> fitness=213260.97 | time=1.00
+Run 18 -> fitness=214109.73 | time=1.00
+Run 19 -> fitness=214558.68 | time=1.00
+Run 20 -> fitness=213591.45 | time=1.00
+Run 21 -> fitness=219022.87 | time=1.00
+Run 22 -> fitness=213581.30 | time=1.00
+Run 23 -> fitness=213073.07 | time=1.00
+Run 24 -> fitness=218614.32 | time=1.00
+Run 25 -> fitness=218873.11 | time=1.00
+Run 26 -> fitness=214546.45 | time=1.00
+Run 27 -> fitness=214219.78 | time=1.00
+Run 28 -> fitness=220838.81 | time=1.00
+Run 29 -> fitness=214117.79 | time=1.00
+Run 30 -> fitness=213427.17 | time=1.00
+----------------------
+Média do tempo: 1.0000 secs
+Média do fitness: 214959.8456 Gbps
+
+Execution 41: 10 Population - 100000 Generation - 0.15 Mutation - 2 second time limit
+Run 01 -> fitness=222401.32 | time=2.00
+Run 02 -> fitness=223636.38 | time=2.00
+Run 03 -> fitness=222162.40 | time=2.00
+Run 04 -> fitness=222596.41 | time=2.00
+Run 05 -> fitness=222652.89 | time=2.00
+Run 06 -> fitness=224163.61 | time=2.00
+Run 07 -> fitness=222374.29 | time=2.00
+Run 08 -> fitness=222959.39 | time=2.00
+Run 09 -> fitness=222229.33 | time=2.00
+Run 10 -> fitness=231376.94 | time=2.00
+Run 11 -> fitness=231478.14 | time=2.00
+Run 12 -> fitness=231515.71 | time=2.00
+Run 13 -> fitness=222045.76 | time=2.00
+Run 14 -> fitness=223742.93 | time=2.00
+Run 15 -> fitness=223550.73 | time=2.00
+Run 16 -> fitness=222710.51 | time=2.00
+Run 17 -> fitness=222780.17 | time=2.00
+Run 18 -> fitness=223338.46 | time=2.00
+Run 19 -> fitness=223751.16 | time=2.00
+Run 20 -> fitness=222699.58 | time=2.00
+Run 21 -> fitness=231425.06 | time=2.00
+Run 22 -> fitness=223147.12 | time=2.00
+Run 23 -> fitness=222760.39 | time=2.00
+Run 24 -> fitness=222942.82 | time=2.00
+Run 25 -> fitness=223896.98 | time=2.00
+Run 26 -> fitness=223497.60 | time=2.00
+Run 27 -> fitness=231326.29 | time=2.00
+Run 28 -> fitness=222781.95 | time=2.00
+Run 29 -> fitness=223261.70 | time=2.00
+Run 30 -> fitness=223173.92 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 224412.6646 Gbps
+
+Execution 42: 10 Population - 100000 Generation - 0.15 Mutation - 4 second time limit
+Run 01 -> fitness=237370.79 | time=4.00
+Run 02 -> fitness=236532.48 | time=4.00
+Run 03 -> fitness=236611.24 | time=4.00
+Run 04 -> fitness=236565.09 | time=4.00
+Run 05 -> fitness=236808.85 | time=4.00
+Run 06 -> fitness=236945.58 | time=4.00
+Run 07 -> fitness=236193.16 | time=4.00
+Run 08 -> fitness=248136.36 | time=4.00
+Run 09 -> fitness=246980.75 | time=4.00
+Run 10 -> fitness=236538.14 | time=4.00
+Run 11 -> fitness=236563.77 | time=4.00
+Run 12 -> fitness=247789.81 | time=4.00
+Run 13 -> fitness=236433.71 | time=4.00
+Run 14 -> fitness=236339.04 | time=4.00
+Run 15 -> fitness=235781.78 | time=4.00
+Run 16 -> fitness=247318.24 | time=4.00
+Run 17 -> fitness=236459.09 | time=4.00
+Run 18 -> fitness=236404.68 | time=4.00
+Run 19 -> fitness=237050.13 | time=4.00
+Run 20 -> fitness=236387.21 | time=4.00
+Run 21 -> fitness=247310.49 | time=4.00
+Run 22 -> fitness=237445.41 | time=4.00
+Run 23 -> fitness=236557.30 | time=4.00
+Run 24 -> fitness=247436.19 | time=4.00
+Run 25 -> fitness=236671.80 | time=4.00
+Run 26 -> fitness=237237.45 | time=4.00
+Run 27 -> fitness=237151.78 | time=4.00
+Run 28 -> fitness=248522.35 | time=4.00
+Run 29 -> fitness=236263.22 | time=4.00
+Run 30 -> fitness=247409.29 | time=4.00
+----------------------
+Média do tempo: 4.0000 secs
+Média do fitness: 239573.8393 Gbps
+
+Execution 43: 10 Population - 100000 Generation - 0.15 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=321616.66 | time=136.61
+Run 02 -> fitness=322230.49 | time=137.82
+Run 03 -> fitness=322474.86 | time=136.96
+Run 04 -> fitness=321966.07 | time=137.49
+Run 05 -> fitness=321529.68 | time=137.38
+Run 06 -> fitness=321538.38 | time=137.11
+Run 07 -> fitness=321681.87 | time=136.70
+Run 08 -> fitness=321808.96 | time=136.97
+Run 09 -> fitness=321848.80 | time=86.41
+Run 10 -> fitness=322270.39 | time=86.72
+Run 11 -> fitness=321468.85 | time=86.14
+Run 12 -> fitness=321687.64 | time=136.67
+Run 13 -> fitness=321871.30 | time=86.83
+Run 14 -> fitness=321783.97 | time=137.44
+Run 15 -> fitness=321136.65 | time=86.78
+Run 16 -> fitness=321227.26 | time=138.43
+Run 17 -> fitness=321768.60 | time=86.81
+Run 18 -> fitness=321766.11 | time=86.78
+Run 19 -> fitness=321931.48 | time=86.32
+Run 20 -> fitness=322007.56 | time=137.27
+Run 21 -> fitness=321875.28 | time=137.67
+Run 22 -> fitness=322014.05 | time=137.14
+Run 23 -> fitness=321335.69 | time=87.01
+Run 24 -> fitness=321621.92 | time=137.63
+Run 25 -> fitness=322126.59 | time=137.16
+Run 26 -> fitness=321963.29 | time=137.32
+Run 27 -> fitness=321349.46 | time=86.90
+Run 28 -> fitness=321708.20 | time=137.23
+Run 29 -> fitness=321366.88 | time=138.05
+Run 30 -> fitness=321862.82 | time=137.55
+----------------------
+Média do tempo: 120.4433 secs
+Média do fitness: 321761.3253 Gbps
+
+Execution 44: 10 Population - 100000 Generation - 0.30 Mutation - 1 second time limit
+Run 01 -> fitness=217853.25 | time=1.00
+Run 02 -> fitness=218223.16 | time=1.00
+Run 03 -> fitness=217944.16 | time=1.00
+Run 04 -> fitness=223873.81 | time=1.00
+Run 05 -> fitness=217811.59 | time=1.00
+Run 06 -> fitness=217189.73 | time=1.00
+Run 07 -> fitness=217032.02 | time=1.00
+Run 08 -> fitness=217655.63 | time=1.00
+Run 09 -> fitness=223144.16 | time=1.00
+Run 10 -> fitness=218002.96 | time=1.00
+Run 11 -> fitness=217534.63 | time=1.00
+Run 12 -> fitness=217581.67 | time=1.00
+Run 13 -> fitness=217360.49 | time=1.00
+Run 14 -> fitness=222922.60 | time=1.00
+Run 15 -> fitness=217562.56 | time=1.00
+Run 16 -> fitness=217213.86 | time=1.00
+Run 17 -> fitness=217667.80 | time=1.00
+Run 18 -> fitness=218881.02 | time=1.00
+Run 19 -> fitness=224586.78 | time=1.00
+Run 20 -> fitness=217662.12 | time=1.00
+Run 21 -> fitness=217471.30 | time=1.00
+Run 22 -> fitness=217950.69 | time=1.00
+Run 23 -> fitness=217966.55 | time=1.00
+Run 24 -> fitness=216664.41 | time=1.00
+Run 25 -> fitness=218059.98 | time=1.00
+Run 26 -> fitness=217955.15 | time=1.00
+Run 27 -> fitness=216634.79 | time=1.00
+Run 28 -> fitness=217877.86 | time=1.00
+Run 29 -> fitness=223571.00 | time=1.00
+Run 30 -> fitness=216897.53 | time=1.00
+----------------------
+Média do tempo: 1.0000 secs
+Média do fitness: 218625.1086 Gbps
+
+Execution 45: 10 Population - 100000 Generation - 0.30 Mutation - 2 second time limit
+Run 01 -> fitness=228588.81 | time=2.00
+Run 02 -> fitness=227580.13 | time=2.00
+Run 03 -> fitness=236775.14 | time=2.00
+Run 04 -> fitness=237592.33 | time=2.00
+Run 05 -> fitness=236276.31 | time=2.00
+Run 06 -> fitness=228574.79 | time=2.00
+Run 07 -> fitness=236960.62 | time=2.00
+Run 08 -> fitness=227878.56 | time=2.00
+Run 09 -> fitness=236600.08 | time=2.00
+Run 10 -> fitness=228517.69 | time=2.00
+Run 11 -> fitness=228956.95 | time=2.00
+Run 12 -> fitness=229276.72 | time=2.00
+Run 13 -> fitness=227900.56 | time=2.00
+Run 14 -> fitness=227495.57 | time=2.00
+Run 15 -> fitness=228028.34 | time=2.00
+Run 16 -> fitness=236864.74 | time=2.00
+Run 17 -> fitness=228570.65 | time=2.00
+Run 18 -> fitness=228162.11 | time=2.00
+Run 19 -> fitness=227768.78 | time=2.00
+Run 20 -> fitness=228571.62 | time=2.00
+Run 21 -> fitness=227468.32 | time=2.00
+Run 22 -> fitness=228785.53 | time=2.00
+Run 23 -> fitness=228232.26 | time=2.00
+Run 24 -> fitness=228335.72 | time=2.00
+Run 25 -> fitness=227386.75 | time=2.00
+Run 26 -> fitness=237586.06 | time=2.00
+Run 27 -> fitness=228059.82 | time=2.00
+Run 28 -> fitness=228907.83 | time=2.00
+Run 29 -> fitness=228386.25 | time=2.00
+Run 30 -> fitness=227706.58 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 230259.8540 Gbps
+
+Execution 46: 10 Population - 100000 Generation - 0.30 Mutation - 4 second time limit
+Run 01 -> fitness=243480.57 | time=4.00
+Run 02 -> fitness=242502.53 | time=4.00
+Run 03 -> fitness=254286.40 | time=4.00
+Run 04 -> fitness=244219.51 | time=4.00
+Run 05 -> fitness=253447.72 | time=4.00
+Run 06 -> fitness=253909.55 | time=4.00
+Run 07 -> fitness=244065.89 | time=4.00
+Run 08 -> fitness=254493.34 | time=4.00
+Run 09 -> fitness=242636.59 | time=4.00
+Run 10 -> fitness=242507.29 | time=4.00
+Run 11 -> fitness=241995.88 | time=4.00
+Run 12 -> fitness=243319.16 | time=4.00
+Run 13 -> fitness=253327.41 | time=4.00
+Run 14 -> fitness=243924.47 | time=4.00
+Run 15 -> fitness=243198.18 | time=4.00
+Run 16 -> fitness=253912.57 | time=4.00
+Run 17 -> fitness=242395.89 | time=4.00
+Run 18 -> fitness=243092.30 | time=4.00
+Run 19 -> fitness=242578.90 | time=4.00
+Run 20 -> fitness=253708.63 | time=4.00
+Run 21 -> fitness=242357.46 | time=4.00
+Run 22 -> fitness=243244.87 | time=4.00
+Run 23 -> fitness=243178.12 | time=4.00
+Run 24 -> fitness=242831.23 | time=4.00
+Run 25 -> fitness=252544.33 | time=4.00
+Run 26 -> fitness=243004.22 | time=4.00
+Run 27 -> fitness=242875.66 | time=4.00
+Run 28 -> fitness=242781.35 | time=4.00
+Run 29 -> fitness=241977.93 | time=4.00
+Run 30 -> fitness=243278.34 | time=4.00
+----------------------
+Média do tempo: 4.0000 secs
+Média do fitness: 245835.8763 Gbps
+
+Execution 47: 10 Population - 100000 Generation - 0.30 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=298244.46 | time=139.09
+Run 02 -> fitness=299256.92 | time=138.85
+Run 03 -> fitness=298771.91 | time=138.77
+Run 04 -> fitness=299399.27 | time=88.77
+Run 05 -> fitness=297992.08 | time=138.35
+Run 06 -> fitness=298950.46 | time=139.19
+Run 07 -> fitness=299131.72 | time=89.32
+Run 08 -> fitness=299164.16 | time=89.26
+Run 09 -> fitness=298802.74 | time=89.92
+Run 10 -> fitness=298561.55 | time=138.57
+Run 11 -> fitness=298811.58 | time=139.14
+Run 12 -> fitness=299509.82 | time=138.37
+Run 13 -> fitness=299212.94 | time=139.51
+Run 14 -> fitness=298091.33 | time=89.60
+Run 15 -> fitness=298962.85 | time=139.26
+Run 16 -> fitness=299209.95 | time=89.42
+Run 17 -> fitness=298124.32 | time=138.84
+Run 18 -> fitness=299545.16 | time=138.69
+Run 19 -> fitness=298629.02 | time=139.52
+Run 20 -> fitness=298713.00 | time=139.37
+Run 21 -> fitness=298288.93 | time=138.28
+Run 22 -> fitness=298070.55 | time=138.51
+Run 23 -> fitness=299617.41 | time=89.18
+Run 24 -> fitness=298456.38 | time=139.25
+Run 25 -> fitness=298591.96 | time=138.59
+Run 26 -> fitness=299191.18 | time=139.11
+Run 27 -> fitness=298190.06 | time=89.66
+Run 28 -> fitness=299480.72 | time=89.74
+Run 29 -> fitness=298849.77 | time=89.29
+Run 30 -> fitness=298685.48 | time=138.58
+----------------------
+Média do tempo: 122.4000 secs
+Média do fitness: 298816.9226 Gbps
+
+Execution 48: 30 Population - 30000 Generation - 0.15 Mutation - 1 second time limit
+Run 01 -> fitness=208999.35 | time=1.01
+Run 02 -> fitness=209694.33 | time=1.00
+Run 03 -> fitness=209775.51 | time=1.00
+Run 04 -> fitness=208350.47 | time=1.00
+Run 05 -> fitness=209401.95 | time=1.00
+Run 06 -> fitness=208709.02 | time=1.00
+Run 07 -> fitness=208700.15 | time=1.00
+Run 08 -> fitness=209270.40 | time=1.00
+Run 09 -> fitness=209328.06 | time=1.00
+Run 10 -> fitness=208538.35 | time=1.00
+Run 11 -> fitness=208974.92 | time=1.01
+Run 12 -> fitness=208185.87 | time=1.00
+Run 13 -> fitness=209421.01 | time=1.00
+Run 14 -> fitness=208270.95 | time=1.00
+Run 15 -> fitness=209680.75 | time=1.00
+Run 16 -> fitness=208083.55 | time=1.00
+Run 17 -> fitness=208725.03 | time=1.00
+Run 18 -> fitness=208928.30 | time=1.00
+Run 19 -> fitness=208671.56 | time=1.00
+Run 20 -> fitness=210190.33 | time=1.00
+Run 21 -> fitness=208667.41 | time=1.00
+Run 22 -> fitness=209319.57 | time=1.00
+Run 23 -> fitness=208991.79 | time=1.00
+Run 24 -> fitness=209336.81 | time=1.01
+Run 25 -> fitness=209132.81 | time=1.00
+Run 26 -> fitness=208579.52 | time=1.00
+Run 27 -> fitness=208587.08 | time=1.01
+Run 28 -> fitness=209161.29 | time=1.00
+Run 29 -> fitness=210408.27 | time=1.00
+Run 30 -> fitness=209117.48 | time=1.00
+----------------------
+Média do tempo: 1.0013 secs
+Média do fitness: 209040.0630 Gbps
+
+Execution 49: 30 Population - 30000 Generation - 0.15 Mutation - 2 second time limit
+Run 01 -> fitness=213367.92 | time=2.00
+Run 02 -> fitness=213204.58 | time=2.00
+Run 03 -> fitness=212381.51 | time=2.00
+Run 04 -> fitness=214780.80 | time=2.00
+Run 05 -> fitness=215174.68 | time=2.00
+Run 06 -> fitness=212488.88 | time=2.00
+Run 07 -> fitness=211709.04 | time=2.00
+Run 08 -> fitness=213481.66 | time=2.00
+Run 09 -> fitness=213192.59 | time=2.00
+Run 10 -> fitness=213547.98 | time=2.00
+Run 11 -> fitness=214974.88 | time=2.00
+Run 12 -> fitness=213476.33 | time=2.00
+Run 13 -> fitness=214221.51 | time=2.00
+Run 14 -> fitness=215249.75 | time=2.00
+Run 15 -> fitness=211816.63 | time=2.00
+Run 16 -> fitness=213970.47 | time=2.00
+Run 17 -> fitness=213209.06 | time=2.00
+Run 18 -> fitness=212596.96 | time=2.00
+Run 19 -> fitness=216039.79 | time=2.00
+Run 20 -> fitness=214860.87 | time=2.00
+Run 21 -> fitness=214164.12 | time=2.00
+Run 22 -> fitness=213337.24 | time=2.00
+Run 23 -> fitness=214977.19 | time=2.00
+Run 24 -> fitness=212451.75 | time=2.00
+Run 25 -> fitness=212707.36 | time=2.00
+Run 26 -> fitness=212328.98 | time=2.00
+Run 27 -> fitness=213112.12 | time=2.00
+Run 28 -> fitness=214655.56 | time=2.00
+Run 29 -> fitness=212898.13 | time=2.00
+Run 30 -> fitness=212403.00 | time=2.00
+----------------------
+Média do tempo: 2.0000 secs
+Média do fitness: 213559.3780 Gbps
+
+Execution 50: 30 Population - 30000 Generation - 0.15 Mutation - 4 second time limit
+Run 01 -> fitness=219266.38 | time=4.00
+Run 02 -> fitness=223534.88 | time=4.00
+Run 03 -> fitness=223668.50 | time=4.00
+Run 04 -> fitness=220203.13 | time=4.01
+Run 05 -> fitness=220112.73 | time=4.00
+Run 06 -> fitness=223678.48 | time=4.00
+Run 07 -> fitness=219615.04 | time=4.00
+Run 08 -> fitness=219301.82 | time=4.00
+Run 09 -> fitness=223363.83 | time=4.00
+Run 10 -> fitness=218658.75 | time=4.00
+Run 11 -> fitness=219575.80 | time=4.00
+Run 12 -> fitness=219248.99 | time=4.00
+Run 13 -> fitness=220063.74 | time=4.00
+Run 14 -> fitness=220607.50 | time=4.01
+Run 15 -> fitness=219695.81 | time=4.00
+Run 16 -> fitness=222911.70 | time=4.00
+Run 17 -> fitness=222589.62 | time=4.00
+Run 18 -> fitness=219265.15 | time=4.00
+Run 19 -> fitness=219225.75 | time=4.00
+Run 20 -> fitness=219777.92 | time=4.00
+Run 21 -> fitness=219458.39 | time=4.00
+Run 22 -> fitness=219899.82 | time=4.00
+Run 23 -> fitness=223714.13 | time=4.00
+Run 24 -> fitness=219006.45 | time=4.00
+Run 25 -> fitness=220175.74 | time=4.01
+Run 26 -> fitness=222834.95 | time=4.00
+Run 27 -> fitness=219936.11 | time=4.00
+Run 28 -> fitness=224195.79 | time=4.00
+Run 29 -> fitness=219811.01 | time=4.01
+Run 30 -> fitness=223534.19 | time=4.00
+----------------------
+Média do tempo: 4.0013 secs
+Média do fitness: 220897.7366 Gbps
+
+Execution 51: 30 Population - 30000 Generation - 0.15 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=318082.10 | time=163.87
+Run 02 -> fitness=317205.96 | time=127.70
+Run 03 -> fitness=317448.19 | time=128.06
+Run 04 -> fitness=317584.22 | time=162.43
+Run 05 -> fitness=317457.17 | time=163.09
+Run 06 -> fitness=317352.62 | time=128.82
+Run 07 -> fitness=317530.37 | time=125.99
+Run 08 -> fitness=317583.04 | time=162.99
+Run 09 -> fitness=317250.12 | time=126.69
+Run 10 -> fitness=317436.73 | time=127.20
+Run 11 -> fitness=317727.20 | time=126.27
+Run 12 -> fitness=317119.63 | time=163.12
+Run 13 -> fitness=317350.45 | time=162.81
+Run 14 -> fitness=317543.59 | time=126.00
+Run 15 -> fitness=317335.23 | time=125.81
+Run 16 -> fitness=317293.33 | time=162.53
+Run 17 -> fitness=317647.07 | time=163.18
+Run 18 -> fitness=317526.96 | time=163.17
+Run 19 -> fitness=317365.18 | time=127.37
+Run 20 -> fitness=317796.68 | time=163.24
+Run 21 -> fitness=317811.04 | time=164.05
+Run 22 -> fitness=317476.83 | time=163.98
+Run 23 -> fitness=316770.69 | time=164.11
+Run 24 -> fitness=317580.02 | time=163.80
+Run 25 -> fitness=317401.78 | time=163.11
+Run 26 -> fitness=317751.18 | time=160.35
+Run 27 -> fitness=317095.36 | time=163.36
+Run 28 -> fitness=317208.30 | time=160.45
+Run 29 -> fitness=316832.57 | time=161.65
+Run 30 -> fitness=317073.59 | time=164.02
+----------------------
+Média do tempo: 150.9740 secs
+Média do fitness: 317421.2400 Gbps
+
+Execution 52: 30 Population - 30000 Generation - 0.30 Mutation - 1 second time limit
+Run 01 -> fitness=211828.31 | time=1.00
+Run 02 -> fitness=210076.49 | time=1.01
+Run 03 -> fitness=209776.25 | time=1.00
+Run 04 -> fitness=209674.06 | time=1.00
+Run 05 -> fitness=209352.99 | time=1.00
+Run 06 -> fitness=210561.41 | time=1.00
+Run 07 -> fitness=209872.38 | time=1.00
+Run 08 -> fitness=209559.50 | time=1.00
+Run 09 -> fitness=211249.31 | time=1.00
+Run 10 -> fitness=211355.27 | time=1.00
+Run 11 -> fitness=210381.04 | time=1.00
+Run 12 -> fitness=210962.83 | time=1.00
+Run 13 -> fitness=210071.65 | time=1.01
+Run 14 -> fitness=210299.69 | time=1.00
+Run 15 -> fitness=210263.62 | time=1.00
+Run 16 -> fitness=209329.40 | time=1.00
+Run 17 -> fitness=210414.74 | time=1.00
+Run 18 -> fitness=210052.83 | time=1.00
+Run 19 -> fitness=212154.67 | time=1.00
+Run 20 -> fitness=209519.98 | time=1.00
+Run 21 -> fitness=209357.07 | time=1.00
+Run 22 -> fitness=211383.96 | time=1.00
+Run 23 -> fitness=210186.93 | time=1.00
+Run 24 -> fitness=209818.13 | time=1.00
+Run 25 -> fitness=211401.41 | time=1.00
+Run 26 -> fitness=209316.74 | time=1.00
+Run 27 -> fitness=210119.53 | time=1.00
+Run 28 -> fitness=210574.54 | time=1.01
+Run 29 -> fitness=209662.84 | time=1.00
+Run 30 -> fitness=211055.11 | time=1.00
+----------------------
+Média do tempo: 1.0010 secs
+Média do fitness: 210321.0893 Gbps
+
+Execution 53: 30 Population - 30000 Generation - 0.30 Mutation - 2 second time limit
+Run 01 -> fitness=217814.92 | time=2.00
+Run 02 -> fitness=214685.08 | time=2.00
+Run 03 -> fitness=215148.71 | time=2.01
+Run 04 -> fitness=215545.18 | time=2.01
+Run 05 -> fitness=215379.71 | time=2.00
+Run 06 -> fitness=215281.67 | time=2.00
+Run 07 -> fitness=215130.90 | time=2.00
+Run 08 -> fitness=214409.70 | time=2.00
+Run 09 -> fitness=214665.14 | time=2.00
+Run 10 -> fitness=217941.78 | time=2.00
+Run 11 -> fitness=215864.87 | time=2.00
+Run 12 -> fitness=214635.22 | time=2.00
+Run 13 -> fitness=214678.63 | time=2.00
+Run 14 -> fitness=217263.21 | time=2.00
+Run 15 -> fitness=214765.10 | time=2.01
+Run 16 -> fitness=214723.86 | time=2.00
+Run 17 -> fitness=214035.73 | time=2.00
+Run 18 -> fitness=213895.00 | time=2.00
+Run 19 -> fitness=214956.25 | time=2.00
+Run 20 -> fitness=217531.02 | time=2.00
+Run 21 -> fitness=214716.50 | time=2.00
+Run 22 -> fitness=215237.72 | time=2.00
+Run 23 -> fitness=214885.08 | time=2.00
+Run 24 -> fitness=215046.34 | time=2.00
+Run 25 -> fitness=215365.95 | time=2.00
+Run 26 -> fitness=216485.52 | time=2.00
+Run 27 -> fitness=216831.64 | time=2.00
+Run 28 -> fitness=214505.07 | time=2.00
+Run 29 -> fitness=215083.73 | time=2.00
+Run 30 -> fitness=213875.45 | time=2.00
+----------------------
+Média do tempo: 2.0010 secs
+Média do fitness: 215346.1560 Gbps
+
+Execution 54: 30 Population - 30000 Generation - 0.30 Mutation - 4 second time limit
+Run 01 -> fitness=223956.30 | time=4.00
+Run 02 -> fitness=224056.68 | time=4.00
+Run 03 -> fitness=223976.19 | time=4.00
+Run 04 -> fitness=223347.99 | time=4.01
+Run 05 -> fitness=228068.08 | time=4.00
+Run 06 -> fitness=223902.09 | time=4.00
+Run 07 -> fitness=223928.53 | time=4.01
+Run 08 -> fitness=227450.90 | time=4.00
+Run 09 -> fitness=224248.72 | time=4.00
+Run 10 -> fitness=227706.14 | time=4.00
+Run 11 -> fitness=223840.30 | time=4.00
+Run 12 -> fitness=223659.19 | time=4.00
+Run 13 -> fitness=227057.18 | time=4.00
+Run 14 -> fitness=228224.51 | time=4.00
+Run 15 -> fitness=223153.40 | time=4.00
+Run 16 -> fitness=227769.87 | time=4.00
+Run 17 -> fitness=223266.91 | time=4.00
+Run 18 -> fitness=227835.39 | time=4.00
+Run 19 -> fitness=227985.47 | time=4.00
+Run 20 -> fitness=223151.27 | time=4.00
+Run 21 -> fitness=223883.65 | time=4.00
+Run 22 -> fitness=226882.17 | time=4.00
+Run 23 -> fitness=223191.86 | time=4.00
+Run 24 -> fitness=223792.24 | time=4.00
+Run 25 -> fitness=223558.70 | time=4.00
+Run 26 -> fitness=223554.36 | time=4.00
+Run 27 -> fitness=222161.15 | time=4.00
+Run 28 -> fitness=223034.69 | time=4.00
+Run 29 -> fitness=227179.25 | time=4.00
+Run 30 -> fitness=223296.15 | time=4.00
+----------------------
+Média do tempo: 4.0006 secs
+Média do fitness: 224903.9776 Gbps
+
+Execution 55: 30 Population - 30000 Generation - 0.30 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=313379.34 | time=129.66
+Run 02 -> fitness=313605.69 | time=128.02
+Run 03 -> fitness=313028.31 | time=165.84
+Run 04 -> fitness=312939.90 | time=162.45
+Run 05 -> fitness=313314.09 | time=165.43
+Run 06 -> fitness=312971.53 | time=166.45
+Run 07 -> fitness=313285.29 | time=130.98
+Run 08 -> fitness=313958.74 | time=165.89
+Run 09 -> fitness=312791.20 | time=165.91
+Run 10 -> fitness=312975.69 | time=164.78
+Run 11 -> fitness=312436.22 | time=165.12
+Run 12 -> fitness=312810.94 | time=165.06
+Run 13 -> fitness=313569.97 | time=130.61
+Run 14 -> fitness=312712.45 | time=164.65
+Run 15 -> fitness=313202.84 | time=163.48
+Run 16 -> fitness=313400.09 | time=165.65
+Run 17 -> fitness=313140.76 | time=129.91
+Run 18 -> fitness=313339.90 | time=164.58
+Run 19 -> fitness=313215.77 | time=162.08
+Run 20 -> fitness=313390.16 | time=130.50
+Run 21 -> fitness=313071.54 | time=165.95
+Run 22 -> fitness=313173.75 | time=130.12
+Run 23 -> fitness=313618.40 | time=165.76
+Run 24 -> fitness=313327.80 | time=165.56
+Run 25 -> fitness=313702.92 | time=130.32
+Run 26 -> fitness=313399.41 | time=166.27
+Run 27 -> fitness=313577.69 | time=130.16
+Run 28 -> fitness=313344.95 | time=166.13
+Run 29 -> fitness=313117.51 | time=165.93
+Run 30 -> fitness=313210.65 | time=165.76
+----------------------
+Média do tempo: 154.6336 secs
+Média do fitness: 313233.7833 Gbps
+
+Execution 56: 30 Population - 50000 Generation - 0.15 Mutation - 1 second time limit
+Run 01 -> fitness=210292.00 | time=1.00
+Run 02 -> fitness=209876.08 | time=1.01
+Run 03 -> fitness=208327.54 | time=1.00
+Run 04 -> fitness=208481.68 | time=1.00
+Run 05 -> fitness=208261.39 | time=1.00
+Run 06 -> fitness=209917.51 | time=1.00
+Run 07 -> fitness=209266.13 | time=1.00
+Run 08 -> fitness=208793.34 | time=1.00
+Run 09 -> fitness=208500.64 | time=1.00
+Run 10 -> fitness=209077.72 | time=1.00
+Run 11 -> fitness=208804.14 | time=1.00
+Run 12 -> fitness=209132.67 | time=1.00
+Run 13 -> fitness=208569.76 | time=1.00
+Run 14 -> fitness=208740.76 | time=1.00
+Run 15 -> fitness=208792.98 | time=1.00
+Run 16 -> fitness=209251.10 | time=1.00
+Run 17 -> fitness=208775.59 | time=1.00
+Run 18 -> fitness=208640.58 | time=1.00
+Run 19 -> fitness=208857.75 | time=1.00
+Run 20 -> fitness=210090.84 | time=1.00
+Run 21 -> fitness=208521.69 | time=1.00
+Run 22 -> fitness=208616.99 | time=1.00
+Run 23 -> fitness=209688.84 | time=1.00
+Run 24 -> fitness=209464.68 | time=1.00
+Run 25 -> fitness=210337.96 | time=1.00
+Run 26 -> fitness=209184.75 | time=1.00
+Run 27 -> fitness=210525.77 | time=1.00
+Run 28 -> fitness=208837.17 | time=1.00
+Run 29 -> fitness=208838.12 | time=1.01
+Run 30 -> fitness=209338.92 | time=1.00
+----------------------
+Média do tempo: 1.0006 secs
+Média do fitness: 209126.8363 Gbps
+
+Execution 57: 30 Population - 50000 Generation - 0.15 Mutation - 2 second time limit
+Run 01 -> fitness=212413.10 | time=2.00
+Run 02 -> fitness=212580.70 | time=2.00
+Run 03 -> fitness=213240.15 | time=2.00
+Run 04 -> fitness=211853.91 | time=2.00
+Run 05 -> fitness=212983.16 | time=2.01
+Run 06 -> fitness=212839.09 | time=2.01
+Run 07 -> fitness=214199.98 | time=2.00
+Run 08 -> fitness=215473.02 | time=2.00
+Run 09 -> fitness=214758.81 | time=2.00
+Run 10 -> fitness=212921.97 | time=2.01
+Run 11 -> fitness=212593.62 | time=2.00
+Run 12 -> fitness=215078.29 | time=2.00
+Run 13 -> fitness=214766.21 | time=2.00
+Run 14 -> fitness=212474.50 | time=2.00
+Run 15 -> fitness=212722.28 | time=2.01
+Run 16 -> fitness=213112.25 | time=2.00
+Run 17 -> fitness=211653.78 | time=2.00
+Run 18 -> fitness=215189.33 | time=2.00
+Run 19 -> fitness=215141.27 | time=2.00
+Run 20 -> fitness=213169.66 | time=2.01
+Run 21 -> fitness=214463.93 | time=2.00
+Run 22 -> fitness=215212.32 | time=2.00
+Run 23 -> fitness=215513.94 | time=2.00
+Run 24 -> fitness=213255.51 | time=2.00
+Run 25 -> fitness=212467.96 | time=2.00
+Run 26 -> fitness=213331.79 | time=2.01
+Run 27 -> fitness=212438.07 | time=2.00
+Run 28 -> fitness=212795.40 | time=2.00
+Run 29 -> fitness=212455.27 | time=2.00
+Run 30 -> fitness=213343.43 | time=2.00
+----------------------
+Média do tempo: 2.0020 secs
+Média do fitness: 213481.4233 Gbps
+
+Execution 58: 30 Population - 50000 Generation - 0.15 Mutation - 4 second time limit
+Run 01 -> fitness=219318.54 | time=4.00
+Run 02 -> fitness=220555.10 | time=4.00
+Run 03 -> fitness=219458.39 | time=4.00
+Run 04 -> fitness=219628.91 | time=4.01
+Run 05 -> fitness=223991.65 | time=4.00
+Run 06 -> fitness=219817.75 | time=4.00
+Run 07 -> fitness=223379.83 | time=4.00
+Run 08 -> fitness=218801.27 | time=4.00
+Run 09 -> fitness=223263.26 | time=4.00
+Run 10 -> fitness=223248.68 | time=4.00
+Run 11 -> fitness=220347.71 | time=4.00
+Run 12 -> fitness=219318.40 | time=4.01
+Run 13 -> fitness=219698.49 | time=4.00
+Run 14 -> fitness=220005.97 | time=4.00
+Run 15 -> fitness=220182.47 | time=4.00
+Run 16 -> fitness=220104.09 | time=4.00
+Run 17 -> fitness=219957.84 | time=4.00
+Run 18 -> fitness=220330.16 | time=4.00
+Run 19 -> fitness=218802.44 | time=4.00
+Run 20 -> fitness=220227.92 | time=4.00
+Run 21 -> fitness=219729.83 | time=4.00
+Run 22 -> fitness=219179.41 | time=4.01
+Run 23 -> fitness=224095.75 | time=4.00
+Run 24 -> fitness=219461.31 | time=4.00
+Run 25 -> fitness=219412.40 | time=4.00
+Run 26 -> fitness=219617.72 | time=4.00
+Run 27 -> fitness=219183.87 | time=4.00
+Run 28 -> fitness=223160.84 | time=4.00
+Run 29 -> fitness=219774.61 | time=4.00
+Run 30 -> fitness=218757.67 | time=4.00
+----------------------
+Média do tempo: 4.0010 secs
+Média do fitness: 220427.0760 Gbps
+
+Execution 59: 30 Population - 50000 Generation - 0.15 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=327264.46 | time=272.59
+Run 02 -> fitness=327841.13 | time=209.51
+Run 03 -> fitness=327769.92 | time=271.38
+Run 04 -> fitness=327269.54 | time=275.03
+Run 05 -> fitness=327191.67 | time=274.10
+Run 06 -> fitness=327658.58 | time=274.05
+Run 07 -> fitness=327373.36 | time=269.42
+Run 08 -> fitness=328013.36 | time=272.50
+Run 09 -> fitness=327571.37 | time=208.09
+Run 10 -> fitness=327918.46 | time=212.16
+Run 11 -> fitness=327610.59 | time=210.97
+Run 12 -> fitness=327686.61 | time=208.11
+Run 13 -> fitness=327523.90 | time=272.05
+Run 14 -> fitness=327339.99 | time=272.52
+Run 15 -> fitness=327561.56 | time=266.78
+Run 16 -> fitness=327664.57 | time=269.55
+Run 17 -> fitness=327224.53 | time=271.64
+Run 18 -> fitness=327403.76 | time=210.64
+Run 19 -> fitness=327846.53 | time=273.55
+Run 20 -> fitness=327764.27 | time=271.13
+Run 21 -> fitness=327338.55 | time=266.23
+Run 22 -> fitness=328093.93 | time=272.73
+Run 23 -> fitness=327235.39 | time=270.00
+Run 24 -> fitness=327196.67 | time=272.51
+Run 25 -> fitness=327792.76 | time=271.68
+Run 26 -> fitness=327763.85 | time=209.63
+Run 27 -> fitness=327660.63 | time=273.05
+Run 28 -> fitness=327975.43 | time=210.01
+Run 29 -> fitness=327274.57 | time=211.49
+Run 30 -> fitness=327941.62 | time=272.85
+----------------------
+Média do tempo: 253.1983 secs
+Média do fitness: 327592.3853 Gbps
+
+Execution 60: 30 Population - 50000 Generation - 0.30 Mutation - 1 second time limit
+Run 01 -> fitness=210351.37 | time=1.00
+Run 02 -> fitness=210683.32 | time=1.00
+Run 03 -> fitness=209446.70 | time=1.00
+Run 04 -> fitness=209632.45 | time=1.00
+Run 05 -> fitness=209962.45 | time=1.00
+Run 06 -> fitness=210854.02 | time=1.00
+Run 07 -> fitness=211147.42 | time=1.00
+Run 08 -> fitness=211289.82 | time=1.00
+Run 09 -> fitness=209635.41 | time=1.00
+Run 10 -> fitness=210130.03 | time=1.00
+Run 11 -> fitness=209521.21 | time=1.00
+Run 12 -> fitness=209101.72 | time=1.01
+Run 13 -> fitness=210774.10 | time=1.00
+Run 14 -> fitness=211116.27 | time=1.00
+Run 15 -> fitness=211071.38 | time=1.00
+Run 16 -> fitness=209930.67 | time=1.01
+Run 17 -> fitness=209620.33 | time=1.00
+Run 18 -> fitness=211462.71 | time=1.00
+Run 19 -> fitness=210995.95 | time=1.00
+Run 20 -> fitness=209502.22 | time=1.00
+Run 21 -> fitness=210365.20 | time=1.00
+Run 22 -> fitness=209508.03 | time=1.01
+Run 23 -> fitness=210061.88 | time=1.00
+Run 24 -> fitness=210307.78 | time=1.00
+Run 25 -> fitness=209145.53 | time=1.01
+Run 26 -> fitness=211266.84 | time=1.00
+Run 27 -> fitness=210291.52 | time=1.00
+Run 28 -> fitness=209312.47 | time=1.01
+Run 29 -> fitness=210167.29 | time=1.01
+Run 30 -> fitness=211461.93 | time=1.00
+----------------------
+Média do tempo: 1.0020 secs
+Média do fitness: 210270.6006 Gbps
+
+Execution 61: 30 Population - 50000 Generation - 0.30 Mutation - 2 second time limit
+Run 01 -> fitness=215208.34 | time=2.00
+Run 02 -> fitness=215320.73 | time=2.00
+Run 03 -> fitness=214668.58 | time=2.00
+Run 04 -> fitness=215507.40 | time=2.00
+Run 05 -> fitness=216669.34 | time=2.00
+Run 06 -> fitness=216943.90 | time=2.00
+Run 07 -> fitness=214262.56 | time=2.01
+Run 08 -> fitness=215216.34 | time=2.00
+Run 09 -> fitness=215589.26 | time=2.00
+Run 10 -> fitness=217915.90 | time=2.00
+Run 11 -> fitness=214326.52 | time=2.00
+Run 12 -> fitness=215166.24 | time=2.00
+Run 13 -> fitness=215291.92 | time=2.00
+Run 14 -> fitness=215779.84 | time=2.00
+Run 15 -> fitness=215190.15 | time=2.00
+Run 16 -> fitness=214726.58 | time=2.00
+Run 17 -> fitness=216990.13 | time=2.00
+Run 18 -> fitness=214968.66 | time=2.00
+Run 19 -> fitness=217019.32 | time=2.00
+Run 20 -> fitness=216935.92 | time=2.00
+Run 21 -> fitness=214761.44 | time=2.00
+Run 22 -> fitness=215015.62 | time=2.00
+Run 23 -> fitness=214095.50 | time=2.00
+Run 24 -> fitness=214832.67 | time=2.00
+Run 25 -> fitness=214372.34 | time=2.00
+Run 26 -> fitness=214642.65 | time=2.01
+Run 27 -> fitness=217573.02 | time=2.00
+Run 28 -> fitness=215259.78 | time=2.00
+Run 29 -> fitness=217455.13 | time=2.00
+Run 30 -> fitness=214967.63 | time=2.00
+----------------------
+Média do tempo: 2.0006 secs
+Média do fitness: 215555.7803 Gbps
+
+Execution 62: 30 Population - 50000 Generation - 0.30 Mutation - 4 second time limit
+Run 01 -> fitness=223285.96 | time=4.00
+Run 02 -> fitness=223162.42 | time=4.00
+Run 03 -> fitness=223966.56 | time=4.00
+Run 04 -> fitness=227894.77 | time=4.00
+Run 05 -> fitness=223540.54 | time=4.00
+Run 06 -> fitness=223393.71 | time=4.00
+Run 07 -> fitness=223256.61 | time=4.00
+Run 08 -> fitness=224532.87 | time=4.00
+Run 09 -> fitness=223334.92 | time=4.00
+Run 10 -> fitness=223160.49 | time=4.00
+Run 11 -> fitness=223502.64 | time=4.00
+Run 12 -> fitness=223572.73 | time=4.00
+Run 13 -> fitness=223428.45 | time=4.00
+Run 14 -> fitness=227321.84 | time=4.00
+Run 15 -> fitness=223005.04 | time=4.00
+Run 16 -> fitness=223753.92 | time=4.00
+Run 17 -> fitness=222963.05 | time=4.00
+Run 18 -> fitness=227358.78 | time=4.00
+Run 19 -> fitness=223184.60 | time=4.00
+Run 20 -> fitness=222902.99 | time=4.00
+Run 21 -> fitness=223869.67 | time=4.00
+Run 22 -> fitness=223213.07 | time=4.00
+Run 23 -> fitness=224067.25 | time=4.00
+Run 24 -> fitness=223944.95 | time=4.01
+Run 25 -> fitness=222922.89 | time=4.01
+Run 26 -> fitness=223603.80 | time=4.00
+Run 27 -> fitness=223366.84 | time=4.00
+Run 28 -> fitness=228136.13 | time=4.00
+Run 29 -> fitness=223901.66 | time=4.01
+Run 30 -> fitness=227940.80 | time=4.00
+----------------------
+Média do tempo: 4.0010 secs
+Média do fitness: 224182.9983 Gbps
+
+Execution 63: 30 Population - 50000 Generation - 0.30 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=322039.52 | time=275.63
+Run 02 -> fitness=322077.60 | time=275.56
+Run 03 -> fitness=321889.65 | time=276.23
+Run 04 -> fitness=321733.46 | time=215.89
+Run 05 -> fitness=322046.26 | time=274.98
+Run 06 -> fitness=321937.06 | time=216.72
+Run 07 -> fitness=321721.99 | time=277.88
+Run 08 -> fitness=321677.65 | time=274.77
+Run 09 -> fitness=321889.28 | time=272.75
+Run 10 -> fitness=321598.79 | time=212.92
+Run 11 -> fitness=322301.70 | time=275.03
+Run 12 -> fitness=321873.20 | time=273.61
+Run 13 -> fitness=322216.82 | time=270.57
+Run 14 -> fitness=321631.04 | time=274.34
+Run 15 -> fitness=321752.18 | time=275.42
+Run 16 -> fitness=321834.63 | time=216.68
+Run 17 -> fitness=321476.89 | time=275.70
+Run 18 -> fitness=321704.56 | time=273.83
+Run 19 -> fitness=321758.81 | time=270.89
+Run 20 -> fitness=322129.43 | time=276.57
+Run 21 -> fitness=322098.35 | time=274.15
+Run 22 -> fitness=321883.63 | time=271.61
+Run 23 -> fitness=322052.27 | time=275.85
+Run 24 -> fitness=321576.80 | time=276.87
+Run 25 -> fitness=320982.29 | time=215.52
+Run 26 -> fitness=322280.58 | time=275.59
+Run 27 -> fitness=321395.39 | time=275.84
+Run 28 -> fitness=321909.17 | time=273.76
+Run 29 -> fitness=321713.47 | time=276.25
+Run 30 -> fitness=321643.41 | time=274.48
+----------------------
+Média do tempo: 264.8630 secs
+Média do fitness: 321827.5293 Gbps
+
+Execution 64: 30 Population - 100000 Generation - 0.15 Mutation - 1 second time limit
+Run 01 -> fitness=209181.00 | time=1.00
+Run 02 -> fitness=208257.41 | time=1.00
+Run 03 -> fitness=208981.28 | time=1.00
+Run 04 -> fitness=208931.12 | time=1.01
+Run 05 -> fitness=208467.17 | time=1.00
+Run 06 -> fitness=210153.09 | time=1.00
+Run 07 -> fitness=209886.66 | time=1.00
+Run 08 -> fitness=210258.36 | time=1.00
+Run 09 -> fitness=210220.24 | time=1.00
+Run 10 -> fitness=208564.97 | time=1.00
+Run 11 -> fitness=208410.65 | time=1.00
+Run 12 -> fitness=209593.69 | time=1.00
+Run 13 -> fitness=209000.83 | time=1.00
+Run 14 -> fitness=209367.53 | time=1.00
+Run 15 -> fitness=208805.80 | time=1.00
+Run 16 -> fitness=209054.03 | time=1.00
+Run 17 -> fitness=209205.61 | time=1.00
+Run 18 -> fitness=208903.81 | time=1.00
+Run 19 -> fitness=208340.52 | time=1.00
+Run 20 -> fitness=209984.50 | time=1.00
+Run 21 -> fitness=210008.72 | time=1.00
+Run 22 -> fitness=208544.22 | time=1.01
+Run 23 -> fitness=209822.02 | time=1.00
+Run 24 -> fitness=209981.29 | time=1.00
+Run 25 -> fitness=208302.35 | time=1.00
+Run 26 -> fitness=211090.54 | time=1.00
+Run 27 -> fitness=209053.77 | time=1.01
+Run 28 -> fitness=209986.18 | time=1.00
+Run 29 -> fitness=209970.64 | time=1.00
+Run 30 -> fitness=210087.44 | time=1.00
+----------------------
+Média do tempo: 1.0010 secs
+Média do fitness: 209347.1813 Gbps
+
+Execution 65: 30 Population - 100000 Generation - 0.15 Mutation - 2 second time limit
+Run 01 -> fitness=212576.62 | time=2.00
+Run 02 -> fitness=213409.48 | time=2.00
+Run 03 -> fitness=212724.33 | time=2.00
+Run 04 -> fitness=212763.59 | time=2.00
+Run 05 -> fitness=215623.98 | time=2.00
+Run 06 -> fitness=214614.32 | time=2.00
+Run 07 -> fitness=212859.56 | time=2.00
+Run 08 -> fitness=212271.80 | time=2.00
+Run 09 -> fitness=212629.66 | time=2.00
+Run 10 -> fitness=214169.05 | time=2.00
+Run 11 -> fitness=213508.02 | time=2.00
+Run 12 -> fitness=212580.67 | time=2.00
+Run 13 -> fitness=213282.80 | time=2.00
+Run 14 -> fitness=212651.73 | time=2.00
+Run 15 -> fitness=212616.89 | time=2.00
+Run 16 -> fitness=215222.65 | time=2.00
+Run 17 -> fitness=213606.80 | time=2.00
+Run 18 -> fitness=211946.36 | time=2.00
+Run 19 -> fitness=215004.60 | time=2.00
+Run 20 -> fitness=212411.77 | time=2.00
+Run 21 -> fitness=214330.75 | time=2.00
+Run 22 -> fitness=212875.19 | time=2.00
+Run 23 -> fitness=213117.08 | time=2.01
+Run 24 -> fitness=214698.08 | time=2.00
+Run 25 -> fitness=212426.26 | time=2.00
+Run 26 -> fitness=212646.99 | time=2.00
+Run 27 -> fitness=213101.52 | time=2.00
+Run 28 -> fitness=212870.91 | time=2.00
+Run 29 -> fitness=212638.11 | time=2.00
+Run 30 -> fitness=212396.62 | time=2.00
+----------------------
+Média do tempo: 2.0003 secs
+Média do fitness: 213252.5396 Gbps
+
+Execution 66: 30 Population - 100000 Generation - 0.15 Mutation - 4 second time limit
+Run 01 -> fitness=219865.83 | time=4.00
+Run 02 -> fitness=219627.73 | time=4.00
+Run 03 -> fitness=219585.09 | time=4.00
+Run 04 -> fitness=222942.74 | time=4.00
+Run 05 -> fitness=224324.09 | time=4.00
+Run 06 -> fitness=223406.20 | time=4.00
+Run 07 -> fitness=219562.84 | time=4.00
+Run 08 -> fitness=219210.62 | time=4.00
+Run 09 -> fitness=220081.81 | time=4.00
+Run 10 -> fitness=220038.07 | time=4.00
+Run 11 -> fitness=223409.92 | time=4.00
+Run 12 -> fitness=220939.44 | time=4.01
+Run 13 -> fitness=219309.81 | time=4.00
+Run 14 -> fitness=223098.09 | time=4.00
+Run 15 -> fitness=220218.21 | time=4.00
+Run 16 -> fitness=224271.75 | time=4.00
+Run 17 -> fitness=220143.46 | time=4.01
+Run 18 -> fitness=219860.89 | time=4.00
+Run 19 -> fitness=220270.08 | time=4.00
+Run 20 -> fitness=219808.02 | time=4.00
+Run 21 -> fitness=223267.33 | time=4.00
+Run 22 -> fitness=219827.12 | time=4.00
+Run 23 -> fitness=223416.28 | time=4.00
+Run 24 -> fitness=219712.40 | time=4.00
+Run 25 -> fitness=220305.74 | time=4.01
+Run 26 -> fitness=219541.39 | time=4.00
+Run 27 -> fitness=222883.11 | time=4.00
+Run 28 -> fitness=219179.73 | time=4.00
+Run 29 -> fitness=220348.32 | time=4.00
+Run 30 -> fitness=220204.22 | time=4.00
+----------------------
+Média do tempo: 4.0010 secs
+Média do fitness: 220955.3443 Gbps
+
+Execution 67: 30 Population - 100000 Generation - 0.15 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=338848.17 | time=542.78
+Run 02 -> fitness=338276.95 | time=538.59
+Run 03 -> fitness=338692.03 | time=544.76
+Run 04 -> fitness=338255.71 | time=417.82
+Run 05 -> fitness=338435.09 | time=544.54
+Run 06 -> fitness=338680.68 | time=539.89
+Run 07 -> fitness=338925.45 | time=543.61
+Run 08 -> fitness=338427.85 | time=544.70
+Run 09 -> fitness=338698.98 | time=424.16
+Run 10 -> fitness=338616.87 | time=532.03
+Run 11 -> fitness=338687.88 | time=547.90
+Run 12 -> fitness=338799.01 | time=546.41
+Run 13 -> fitness=338630.24 | time=544.82
+Run 14 -> fitness=338624.96 | time=545.35
+Run 15 -> fitness=338731.53 | time=541.21
+Run 16 -> fitness=338722.86 | time=547.21
+Run 17 -> fitness=338260.24 | time=426.57
+Run 18 -> fitness=338086.11 | time=543.86
+Run 19 -> fitness=338815.69 | time=427.92
+Run 20 -> fitness=338657.77 | time=544.90
+Run 21 -> fitness=338633.02 | time=427.93
+Run 22 -> fitness=338598.87 | time=423.86
+Run 23 -> fitness=338699.77 | time=546.44
+Run 24 -> fitness=338798.58 | time=427.40
+Run 25 -> fitness=338707.29 | time=426.22
+Run 26 -> fitness=338606.51 | time=540.23
+Run 27 -> fitness=338424.72 | time=425.71
+Run 28 -> fitness=338536.02 | time=540.71
+Run 29 -> fitness=338808.55 | time=546.51
+Run 30 -> fitness=338689.57 | time=542.44
+----------------------
+Média do tempo: 507.8826 secs
+Média do fitness: 338612.5656 Gbps
+
+Execution 68: 30 Population - 100000 Generation - 0.30 Mutation - 1 second time limit
+Run 01 -> fitness=209524.70 | time=1.00
+Run 02 -> fitness=210098.08 | time=1.00
+Run 03 -> fitness=210086.60 | time=1.00
+Run 04 -> fitness=210431.85 | time=1.00
+Run 05 -> fitness=209427.44 | time=1.00
+Run 06 -> fitness=210557.67 | time=1.00
+Run 07 -> fitness=209727.08 | time=1.01
+Run 08 -> fitness=211271.26 | time=1.00
+Run 09 -> fitness=210315.25 | time=1.00
+Run 10 -> fitness=212036.61 | time=1.00
+Run 11 -> fitness=211668.14 | time=1.00
+Run 12 -> fitness=209687.96 | time=1.00
+Run 13 -> fitness=209289.37 | time=1.00
+Run 14 -> fitness=210035.70 | time=1.01
+Run 15 -> fitness=211329.28 | time=1.00
+Run 16 -> fitness=210136.60 | time=1.01
+Run 17 -> fitness=209655.42 | time=1.00
+Run 18 -> fitness=210837.68 | time=1.00
+Run 19 -> fitness=210258.49 | time=1.00
+Run 20 -> fitness=209927.21 | time=1.00
+Run 21 -> fitness=209829.87 | time=1.00
+Run 22 -> fitness=212164.93 | time=1.00
+Run 23 -> fitness=210551.15 | time=1.00
+Run 24 -> fitness=209816.13 | time=1.00
+Run 25 -> fitness=209210.29 | time=1.00
+Run 26 -> fitness=211915.12 | time=1.00
+Run 27 -> fitness=211393.22 | time=1.00
+Run 28 -> fitness=210399.19 | time=1.00
+Run 29 -> fitness=210667.32 | time=1.00
+Run 30 -> fitness=209870.33 | time=1.00
+----------------------
+Média do tempo: 1.0010 secs
+Média do fitness: 210403.9980 Gbps
+
+Execution 69: 30 Population - 100000 Generation - 0.30 Mutation - 2 second time limit
+Run 01 -> fitness=215201.54 | time=2.00
+Run 02 -> fitness=215423.06 | time=2.00
+Run 03 -> fitness=215110.35 | time=2.00
+Run 04 -> fitness=217109.70 | time=2.00
+Run 05 -> fitness=215013.78 | time=2.00
+Run 06 -> fitness=215381.23 | time=2.01
+Run 07 -> fitness=216835.60 | time=2.00
+Run 08 -> fitness=214786.04 | time=2.00
+Run 09 -> fitness=214040.18 | time=2.00
+Run 10 -> fitness=214619.43 | time=2.00
+Run 11 -> fitness=215198.60 | time=2.00
+Run 12 -> fitness=217162.30 | time=2.00
+Run 13 -> fitness=214613.65 | time=2.00
+Run 14 -> fitness=217827.54 | time=2.00
+Run 15 -> fitness=214611.24 | time=2.00
+Run 16 -> fitness=217672.69 | time=2.00
+Run 17 -> fitness=215028.28 | time=2.00
+Run 18 -> fitness=217598.71 | time=2.00
+Run 19 -> fitness=215014.55 | time=2.00
+Run 20 -> fitness=215001.64 | time=2.00
+Run 21 -> fitness=215299.61 | time=2.00
+Run 22 -> fitness=215394.23 | time=2.00
+Run 23 -> fitness=215237.41 | time=2.00
+Run 24 -> fitness=215416.94 | time=2.00
+Run 25 -> fitness=217748.79 | time=2.00
+Run 26 -> fitness=216826.65 | time=2.00
+Run 27 -> fitness=215931.83 | time=2.01
+Run 28 -> fitness=214807.10 | time=2.00
+Run 29 -> fitness=215241.73 | time=2.00
+Run 30 -> fitness=213910.38 | time=2.00
+----------------------
+Média do tempo: 2.0006 secs
+Média do fitness: 215635.4926 Gbps
+
+Execution 70: 30 Population - 100000 Generation - 0.30 Mutation - 4 second time limit
+Run 01 -> fitness=224774.51 | time=4.00
+Run 02 -> fitness=223213.13 | time=4.01
+Run 03 -> fitness=223483.11 | time=4.00
+Run 04 -> fitness=223895.53 | time=4.00
+Run 05 -> fitness=223954.96 | time=4.00
+Run 06 -> fitness=227197.52 | time=4.00
+Run 07 -> fitness=227587.61 | time=4.00
+Run 08 -> fitness=226932.44 | time=4.00
+Run 09 -> fitness=227680.44 | time=4.00
+Run 10 -> fitness=223467.24 | time=4.00
+Run 11 -> fitness=224649.69 | time=4.00
+Run 12 -> fitness=223661.19 | time=4.01
+Run 13 -> fitness=227389.87 | time=4.00
+Run 14 -> fitness=223071.93 | time=4.00
+Run 15 -> fitness=224412.58 | time=4.00
+Run 16 -> fitness=227923.60 | time=4.00
+Run 17 -> fitness=224753.95 | time=4.00
+Run 18 -> fitness=223645.44 | time=4.00
+Run 19 -> fitness=223456.81 | time=4.00
+Run 20 -> fitness=223700.56 | time=4.00
+Run 21 -> fitness=223742.55 | time=4.00
+Run 22 -> fitness=223776.95 | time=4.01
+Run 23 -> fitness=228234.39 | time=4.00
+Run 24 -> fitness=223876.73 | time=4.00
+Run 25 -> fitness=228058.40 | time=4.00
+Run 26 -> fitness=224194.63 | time=4.00
+Run 27 -> fitness=223930.42 | time=4.00
+Run 28 -> fitness=224237.89 | time=4.00
+Run 29 -> fitness=223218.50 | time=4.00
+Run 30 -> fitness=224261.80 | time=4.00
+----------------------
+Média do tempo: 4.0010 secs
+Média do fitness: 224879.4790 Gbps
+
+Execution 71: 30 Population - 100000 Generation - 0.30 Mutation - 1000000000000 second time limit
+Run 01 -> fitness=332152.17 | time=552.39
+Run 02 -> fitness=331649.39 | time=552.11
+Run 03 -> fitness=331906.30 | time=551.45
+Run 04 -> fitness=331772.27 | time=550.62
+Run 05 -> fitness=331563.59 | time=435.81
+Run 06 -> fitness=331567.77 | time=548.42
+Run 07 -> fitness=331951.92 | time=553.68
+Run 08 -> fitness=331790.20 | time=549.98
+Run 09 -> fitness=331804.56 | time=552.50
+Run 10 -> fitness=331358.01 | time=433.36
+Run 11 -> fitness=331769.14 | time=429.42
+Run 12 -> fitness=331350.95 | time=431.53
+Run 13 -> fitness=331314.22 | time=430.06
+Run 14 -> fitness=331548.09 | time=554.30
+Run 15 -> fitness=331203.39 | time=545.91
+Run 16 -> fitness=331607.60 | time=423.21
+Run 17 -> fitness=331787.16 | time=551.22
+Run 18 -> fitness=331772.61 | time=436.79
+Run 19 -> fitness=331601.57 | time=554.78
+Run 20 -> fitness=331462.24 | time=435.11
+Run 21 -> fitness=331775.70 | time=548.18
+Run 22 -> fitness=331588.61 | time=552.29
+Run 23 -> fitness=330990.47 | time=547.44
+Run 24 -> fitness=331276.78 | time=433.76
+Run 25 -> fitness=331704.85 | time=548.88
+Run 26 -> fitness=331520.40 | time=553.83
+Run 27 -> fitness=331933.67 | time=431.80
+Run 28 -> fitness=331270.07 | time=433.20
+Run 29 -> fitness=331738.98 | time=554.23
+Run 30 -> fitness=331782.75 | time=551.13
+----------------------
+Média do tempo: 507.5796 secs
+Média do fitness: 331617.1810 Gbps
