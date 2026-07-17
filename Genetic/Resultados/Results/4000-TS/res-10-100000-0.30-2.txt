@@ -1,0 +1,780 @@
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1511 = 223177.39 found in 2.00 secs
+Maximal individuals:
+	[4. 7. 8. ... 1. 1. 1.][8. 7. 5. ... 9. 2. 2.][3. 7. 3. ... 2. 2. 2.][8. 1. 9. ... 5. 5. 7.][0. 7. 8. ... 1. 0. 1.]
+
+
+---- Metadata and Parameters -----
+    Seed: 8652362967842909845
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2394 = 232254.10 found in 2.00 secs
+Maximal individuals:
+	[5. 2. 7. ... 2. 1. 2.][5. 1. 5. ... 0. 4. 1.][0. 0. 9. ... 4. 6. 4.][6. 4. 6. ... 8. 5. 5.][2. 0. 7. ... 2. 2. 2.]
+
+
+---- Metadata and Parameters -----
+    Seed: 3325159173434000650
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2387 = 232193.04 found in 2.00 secs
+Maximal individuals:
+	[3. 8. 8. ... 6. 5. 6.][3. 8. 8. ... 9. 5. 8.][2. 4. 3. ... 6. 7. 7.][4. 3. 3. ... 0. 2. 2.][9. 0. 6. ... 6. 2. 0.]
+
+
+---- Metadata and Parameters -----
+    Seed: 7442073667155841919
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1514 = 223220.07 found in 2.00 secs
+Maximal individuals:
+	[1. 9. 2. ... 1. 0. 1.][1. 9. 2. ... 1. 1. 1.][1. 3. 4. ... 9. 7. 0.][6. 6. 8. ... 9. 7. 7.][9. 9. 2. ... 1. 1. 0.]
+
+
+---- Metadata and Parameters -----
+    Seed: 5860313308964278602
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2393 = 231342.31 found in 2.00 secs
+Maximal individuals:
+	[1. 2. 4. ... 1. 8. 3.][3. 3. 6. ... 4. 3. 2.][0. 3. 6. ... 2. 2. 2.][0. 3. 7. ... 7. 2. 1.][2. 0. 4. ... 8. 2. 2.]
+
+
+---- Metadata and Parameters -----
+    Seed: 1002366286236261465
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2370 = 231862.85 found in 2.00 secs
+Maximal individuals:
+	[2. 2. 8. ... 2. 2. 2.][9. 1. 2. ... 4. 3. 7.][1. 7. 2. ... 2. 3. 4.][1. 3. 2. ... 4. 4. 1.][2. 1. 8. ... 2. 2. 2.]
+
+
+---- Metadata and Parameters -----
+    Seed: 4031236300391675116
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1523 = 223410.57 found in 2.00 secs
+Maximal individuals:
+	[0. 7. 3. ... 8. 8. 6.][8. 7. 2. ... 8. 8. 8.][5. 3. 5. ... 5. 0. 5.][8. 6. 6. ... 0. 3. 0.][1. 3. 6. ... 0. 0. 5.]
+
+
+---- Metadata and Parameters -----
+    Seed: 125736148209932169
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1512 = 222835.98 found in 2.00 secs
+Maximal individuals:
+	[9. 5. 2. ... 6. 6. 1.][5. 5. 2. ... 6. 8. 2.][4. 4. 4. ... 3. 3. 4.][9. 5. 2. ... 6. 6. 6.][7. 5. 5. ... 0. 0. 0.]
+
+
+---- Metadata and Parameters -----
+    Seed: 3631161897965013255
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2403 = 232037.44 found in 2.00 secs
+Maximal individuals:
+	[0. 6. 7. ... 4. 6. 6.][6. 1. 7. ... 7. 2. 2.][5. 6. 7. ... 4. 6. 6.][5. 4. 7. ... 0. 6. 9.][3. 3. 5. ... 3. 3. 3.]
+
+
+---- Metadata and Parameters -----
+    Seed: 4229549922054092355
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2388 = 233301.59 found in 2.00 secs
+Maximal individuals:
+	[0. 1. 8. ... 6. 6. 6.][4. 1. 7. ... 4. 1. 1.][2. 1. 7. ... 1. 1. 9.][2. 1. 7. ... 1. 7. 4.][0. 5. 7. ... 1. 5. 1.]
+
+
+---- Metadata and Parameters -----
+    Seed: 4302366988124832430
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1516 = 223216.87 found in 2.00 secs
+Maximal individuals:
+	[1. 4. 5. ... 8. 8. 9.][5. 7. 5. ... 1. 1. 3.][7. 4. 3. ... 2. 7. 2.][6. 0. 5. ... 1. 1. 3.][7. 0. 4. ... 1. 1. 3.]
+
+
+---- Metadata and Parameters -----
+    Seed: 3409818604846847265
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1507 = 222700.83 found in 2.00 secs
+Maximal individuals:
+	[0. 3. 3. ... 2. 4. 2.][0. 3. 3. ... 5. 2. 2.][0. 3. 3. ... 2. 2. 2.][7. 6. 3. ... 2. 2. 6.][0. 3. 0. ... 0. 0. 2.]
+
+
+---- Metadata and Parameters -----
+    Seed: 6601834109972970029
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1507 = 223188.17 found in 2.00 secs
+Maximal individuals:
+	[4. 8. 6. ... 3. 3. 3.][5. 8. 6. ... 2. 3. 7.][4. 2. 0. ... 6. 0. 1.][6. 4. 0. ... 6. 1. 1.][6. 2. 2. ... 8. 8. 8.]
+
+
+---- Metadata and Parameters -----
+    Seed: 7627051702080556167
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1500 = 222486.55 found in 2.00 secs
+Maximal individuals:
+	[2. 8. 7. ... 4. 4. 4.][1. 3. 7. ... 0. 4. 5.][1. 3. 7. ... 5. 5. 5.][1. 8. 7. ... 6. 4. 4.][1. 8. 7. ... 5. 4. 3.]
+
+
+---- Metadata and Parameters -----
+    Seed: 4802080529408190075
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2360 = 231976.11 found in 2.00 secs
+Maximal individuals:
+	[1. 3. 4. ... 1. 7. 1.][1. 9. 3. ... 3. 8. 1.][8. 4. 1. ... 5. 3. 5.][0. 3. 5. ... 6. 1. 3.][3. 4. 1. ... 5. 5. 5.]
+
+
+---- Metadata and Parameters -----
+    Seed: 8833853799498857195
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1515 = 222419.68 found in 2.00 secs
+Maximal individuals:
+	[7. 5. 0. ... 3. 5. 5.][7. 3. 0. ... 0. 5. 8.][7. 3. 0. ... 5. 6. 5.][4. 8. 9. ... 2. 2. 2.][2. 1. 8. ... 7. 8. 7.]
+
+
+---- Metadata and Parameters -----
+    Seed: 1604244106286542932
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2406 = 232105.97 found in 2.00 secs
+Maximal individuals:
+	[8. 0. 4. ... 6. 4. 6.][5. 9. 0. ... 4. 6. 7.][5. 0. 2. ... 5. 6. 4.][8. 7. 8. ... 8. 5. 8.][0. 9. 1. ... 5. 5. 6.]
+
+
+---- Metadata and Parameters -----
+    Seed: 8006571726849461172
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1505 = 223525.25 found in 2.00 secs
+Maximal individuals:
+	[5. 8. 8. ... 8. 8. 8.][7. 5. 6. ... 7. 1. 7.][5. 3. 8. ... 2. 2. 2.][6. 7. 2. ... 3. 3. 3.][6. 8. 2. ... 5. 8. 8.]
+
+
+---- Metadata and Parameters -----
+    Seed: 5109383042915190072
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1519 = 223878.04 found in 2.00 secs
+Maximal individuals:
+	[8. 5. 5. ... 8. 7. 8.][9. 8. 9. ... 2. 2. 6.][9. 8. 5. ... 6. 6. 2.][9. 8. 2. ... 2. 4. 9.][5. 2. 1. ... 7. 4. 7.]
+
+
+---- Metadata and Parameters -----
+    Seed: 8960000225716857851
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2399 = 232525.38 found in 2.00 secs
+Maximal individuals:
+	[2. 8. 9. ... 7. 7. 0.][8. 4. 7. ... 7. 7. 7.][9. 3. 5. ... 5. 6. 8.][6. 9. 6. ... 5. 7. 1.][3. 0. 1. ... 0. 3. 3.]
+
+
+---- Metadata and Parameters -----
+    Seed: 5878414159947038042
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2405 = 232577.14 found in 2.00 secs
+Maximal individuals:
+	[5. 5. 8. ... 5. 4. 5.][5. 8. 5. ... 3. 3. 3.][5. 1. 5. ... 3. 3. 3.][7. 7. 6. ... 4. 4. 4.][6. 1. 5. ... 2. 3. 3.]
+
+
+---- Metadata and Parameters -----
+    Seed: 8836239145458940985
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1496 = 222888.82 found in 2.00 secs
+Maximal individuals:
+	[0. 9. 6. ... 8. 8. 8.][9. 5. 7. ... 8. 6. 7.][9. 2. 7. ... 8. 0. 0.][8. 9. 6. ... 8. 8. 8.][8. 9. 6. ... 8. 8. 8.]
+
+
+---- Metadata and Parameters -----
+    Seed: 4470056003866269594
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2410 = 232595.54 found in 2.00 secs
+Maximal individuals:
+	[4. 0. 1. ... 0. 0. 2.][5. 2. 7. ... 4. 7. 9.][2. 3. 8. ... 2. 7. 2.][7. 6. 7. ... 3. 3. 1.][0. 9. 9. ... 3. 3. 3.]
+
+
+---- Metadata and Parameters -----
+    Seed: 2865042585285416764
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1490 = 222797.39 found in 2.00 secs
+Maximal individuals:
+	[2. 0. 6. ... 1. 5. 1.][8. 1. 6. ... 8. 1. 1.][8. 1. 6. ... 2. 9. 1.][8. 3. 8. ... 1. 1. 1.][9. 8. 6. ... 1. 1. 1.]
+
+
+---- Metadata and Parameters -----
+    Seed: 8373531750148008581
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1499 = 222159.97 found in 2.00 secs
+Maximal individuals:
+	[8. 0. 3. ... 6. 6. 6.][8. 2. 8. ... 6. 6. 0.][8. 2. 3. ... 6. 6. 6.][7. 4. 9. ... 7. 7. 7.][7. 0. 8. ... 7. 4. 7.]
+
+
+---- Metadata and Parameters -----
+    Seed: 5657647920352544578
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1498 = 223068.68 found in 2.00 secs
+Maximal individuals:
+	[7. 6. 3. ... 5. 5. 5.][1. 7. 9. ... 6. 6. 6.][2. 7. 0. ... 6. 6. 6.][2. 7. 9. ... 6. 6. 6.][3. 8. 1. ... 1. 2. 3.]
+
+
+---- Metadata and Parameters -----
+    Seed: 4207374591706160449
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2378 = 232336.76 found in 2.00 secs
+Maximal individuals:
+	[5. 9. 6. ... 7. 7. 8.][3. 5. 7. ... 7. 8. 1.][3. 3. 4. ... 3. 3. 3.][7. 8. 7. ... 9. 6. 9.][3. 9. 9. ... 3. 3. 1.]
+
+
+---- Metadata and Parameters -----
+    Seed: 8791185163338531936
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1503 = 223888.88 found in 2.00 secs
+Maximal individuals:
+	[3. 0. 2. ... 5. 7. 3.][9. 1. 5. ... 6. 6. 6.][9. 2. 7. ... 4. 4. 4.][5. 0. 9. ... 5. 7. 7.][3. 2. 9. ... 4. 8. 4.]
+
+
+---- Metadata and Parameters -----
+    Seed: 3259838070238726584
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 2424 = 232491.04 found in 2.00 secs
+Maximal individuals:
+	[6. 1. 7. ... 0. 0. 3.][7. 3. 7. ... 3. 3. 3.][7. 8. 1. ... 9. 9. 4.][6. 0. 2. ... 3. 3. 3.][6. 9. 0. ... 2. 0. 6.]
+
+
+---- Metadata and Parameters -----
+    Seed: 4975699036920372089
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
+
+Total timeslots:4000
+Total Users:10
+User Timeslot usage:
+[400. 400. 400. 400. 400. 400. 400. 400. 400. 400.]
+
+Crossover using Roulette, Timeslot Mutation and One-Point Crossover
+    Total Generations   : 100000
+    Num. of Populations : 1
+    Population Size     : 10
+    Mutation rate       : 0.3
+Scheduling final válido!
+Max fitness of generation 1525 = 223606.91 found in 2.00 secs
+Maximal individuals:
+	[0. 2. 6. ... 3. 5. 9.][1. 4. 6. ... 3. 3. 3.][1. 4. 6. ... 5. 3. 3.][3. 2. 3. ... 7. 4. 4.][7. 1. 3. ... 7. 7. 7.]
+
+
+---- Metadata and Parameters -----
+    Seed: 1868814399827702925
+    Population size: 10
+    Num. of Populations: 1
+    Generation Number: 100000
+    Elitism Rate: 0.20
+    Mutation Rate: 0.30
+    Time limt (seg):2.000000
+----------------------
