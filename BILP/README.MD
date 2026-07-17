@@ -35,6 +35,6 @@ Este projeto se trata de um algoritmo ótimo para encontrar o escalonamento de u
     - `-d <dir>`: Executa o BILP para todos as entradas de certo diretório
     - `-f <file>`: Executa o BILP com uma entrada específica
     - `-x`: Mostra na saída o vetor com a resposta final do BILP
-- `randomSessionGenerator.py`: Executável Python que gera um arquivo de sessão com dados aleatórios dado um range máximo e um mínimo de rate dos usuários.
-    - **Uso**: apenas executar *randomSessionGenerator.py* e inserir os dados requeridos. O resultado será salvo em BILP.dat
+- `randomBILPGenerator.py`: Executável Python que gera um arquivo de sessão com dados aleatórios dado um range máximo e um mínimo de rate dos usuários.
+    - **Uso**: apenas executar *randomBILPGenerator.py* e inserir os dados requeridos. O resultado será salvo em BILP.dat
 - `run_tests.sh`: Roda o programa 30x e relata as médias de tempo e de *bandwidth* das execuções
