@@ -1,6 +1,8 @@
 #!/bin/bash
 
 DIR_BILP_TESTS="./BILP/Tests/"
+DIR_HUNGARIAN_TESTS="./Hungarian/Tests"
+DIR_HUNGARIAN_RESULTS="./Hungarian/Results"
 DIR_GENETIC_TESTS="./Genetic/Tests"
 DIR_GENETIC_RESULTS="./Results"
 DIR_GENETIC_RESULTS_DIV="./Results-DIV"
@@ -11,19 +13,50 @@ else
     rm -rf "$DIR_GENETIC_TESTS"/*
 fi
 
+if [ ! -d "$DIR_HUNGARIAN_TESTS" ]; then
+    mkdir -p "$DIR_HUNGARIAN_TESTS"
+else 
+    rm -rf "$DIR_HUNGARIAN_TESTS"/*
+fi
+
+rm -rf dados_execucao.txt
 touch dados_execucao.txt
 
 inicio_data=$(date '+%Y-%m-%d %H:%M:%S')
 inicio_ts=$(date +%s)
 echo "Início Execução: $inicio_data" >> dados_execucao.txt
 
+#######################################################################
 
 cd ./BILP/
 ./create_run_tests.sh
 cd ..
 
+#######################################################################
+
 for dir in "${DIR_BILP_TESTS}"/*/; do
-    echo "Convertendo $dir"
+    echo "Convertendo $dir para húngaro"
+    dir_name=$(basename "$dir")
+    echo "$dir" | python3 BILPtoHungarian.py > /dev/null
+    mv "convert_out/" $DIR_HUNGARIAN_TESTS/${dir_name}/
+done
+
+if [ ! -d "$DIR_HUNGARIAN_RESULTS" ]; then
+    mkdir -p "$DIR_HUNGARIAN_RESULTS"
+else 
+    rm -rf "$DIR_HUNGARIAN_RESULTS"/*
+fi
+
+for dir in "${DIR_HUNGARIAN_TESTS}"/*/; do
+    echo "Executando $dir - Húngaro"
+    dir_name=$(basename "$dir")
+    python3 ./Hungarian/main.py -d "$dir" > $DIR_HUNGARIAN_RESULTS/${dir_name}.txt
+done
+
+#######################################################################
+
+for dir in "${DIR_BILP_TESTS}"/*/; do
+    echo "Convertendo $dir para genético"
     dir_name=$(basename "$dir")
     echo "$dir" | python3 BILPtoGenetic.py > /dev/null
     mv "convert_out.txt" $DIR_GENETIC_TESTS/${dir_name}.txt
@@ -67,6 +100,8 @@ for file in ./Tests/*.txt; do
 done
 
 cd ..
+
+#######################################################################
 
 fim_data=$(date '+%Y-%m-%d %H:%M:%S')
 fim_ts=$(date +%s)
