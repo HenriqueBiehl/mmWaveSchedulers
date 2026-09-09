@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SESSIONS=(5 10 20)
-TIMESLOTS=(4000 2000 1000)
+SESSIONS=(10)
+TIMESLOTS=(10000)
 USERS=10
 DIR_TESTS="./Tests/"
 DIR_RESULTS="./Results/"
@@ -31,8 +31,8 @@ for i in "${!TIMESLOTS[@]}"; do
     done
 done
 
-for dir in "${DIR_TESTS}"/*/; do
-    echo "Executando $dir - BILP"
-    dir_name=$(basename "$dir")
-    python3 BILP.py -d "$dir" > $DIR_RESULTS/${dir_name}.txt
-done
+# for dir in "${DIR_TESTS}"/*/; do
+#     echo "Executando $dir - BILP"
+#     dir_name=$(basename "$dir")
+#     python3 BILP.py -d "$dir" > $DIR_RESULTS/${dir_name}.txt
+# done

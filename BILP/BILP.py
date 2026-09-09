@@ -47,7 +47,7 @@ def main():
     if args.dir:
         folderPath = args.dir
         for root, _, files in os.walk(folderPath, topdown=True):
-            files.sort()
+            files.sort(key=lambda f: int(os.path.splitext(os.path.basename(f))[0].split("_")[-1]))
             for name in files:
                 fileName = os.path.join(root, name)
                 obj += runner(fileName, args.x_result)
