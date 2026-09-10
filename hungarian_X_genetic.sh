@@ -50,7 +50,7 @@ fi
 for dir in "${DIR_HUNGARIAN_TESTS}"/*/; do
     echo "Executando $dir - Húngaro"
     dir_name=$(basename "$dir")
-    python3 ./Hungarian/main.py -d "$dir" > $DIR_HUNGARIAN_RESULTS/${dir_name}.txt
+    /usr/bin/time -v python3 ./Hungarian/main.py -d "$dir" > $DIR_HUNGARIAN_RESULTS/${dir_name}.txt 2> ./Hungarian/time_output.txt
 done
 
 #######################################################################
@@ -78,7 +78,7 @@ for file in ./Tests/*.txt; do
         mkdir -p "$DIR_GENETIC_RESULTS/$file_name"
     fi
 
-    python3 main.py -pop 10 -m 0.15 -gen 100000 < $file > $DIR_GENETIC_RESULTS/$file_name/Output.txt
+    /usr/bin/time -v python3 main.py -pop 10 -m 0.15 -gen 100000 < $file > $DIR_GENETIC_RESULTS/$file_name/Output.txt 2> time_output.txt
 done
 
 
@@ -90,6 +90,7 @@ for file in ./Results/*.txt; do
     file_name=$(basename -s .txt "$file")
     printf '\tResultado %s -> ' "$file_name"
     awk '/^Total Objective/ {total=$4} {last=$0} END {printf "%.2f Gbps | %s\n", total, last}' "$file"
+    awk '/Maximum resident set size/ {printf "\tRAM máxima: %.2f MB\n", $6/1024}' time_output.txt
 done
 cd ..
 
@@ -99,6 +100,7 @@ for file in ./Results/*/*.txt; do
     folder_name=$(basename "$(dirname "$file")")
     printf '\tResultado %s -> ' "$folder_name"
     tail -n 1 "$file" | awk -F'= ' '{print $2}'
+    awk '/Maximum resident set size/ {printf "\tRAM máxima: %.2f MB\n", $6/1024}' time_output.txt
 done
 cd ..
 
