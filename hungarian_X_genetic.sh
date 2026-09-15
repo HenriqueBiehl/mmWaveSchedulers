@@ -26,10 +26,22 @@ inicio_data=$(date '+%Y-%m-%d %H:%M:%S')
 inicio_ts=$(date +%s)
 echo "Início Execução: $inicio_data" >> dados_execucao.txt
 
+notify=false
+
+case "$1" in
+    -n|--notify)
+        notify=true
+        ;;
+esac
+
 #######################################################################
 
 cd ./BILP/
 ./create_run_tests.sh
+if [[ $? -ne 0 ]]; then
+    echo "Erro na criação dos testes, encerrando."
+    exit 1
+fi
 cd ..
 
 #######################################################################
@@ -89,8 +101,8 @@ cd ./Hungarian
 for file in ./Results/*.txt; do
     file_name=$(basename -s .txt "$file")
     printf '\tResultado %s -> ' "$file_name"
-    awk '/^Total Objective/ {total=$4} {last=$0} END {printf "%.2f Gbps | %s\n", total, last}' "$file"
-    awk '/Maximum resident set size/ {printf "\tRAM máxima: %.2f MB\n", $6/1024}' time_output.txt
+    awk '/^Total Objective/ {total=$4} /Results found in/ {time=$4} END {printf "%.2f Gbps | %s secs | ", total, time}' "$file"
+    awk '/Maximum resident set size/ {printf "Max RAM: %.2f MB\n", $6/1024}' time_output.txt
 done
 cd ..
 
@@ -99,8 +111,8 @@ cd ./Genetic
 for file in ./Results/*/*.txt; do
     folder_name=$(basename "$(dirname "$file")")
     printf '\tResultado %s -> ' "$folder_name"
-    tail -n 1 "$file" | awk -F'= ' '{print $2}'
-    awk '/Maximum resident set size/ {printf "\tRAM máxima: %.2f MB\n", $6/1024}' time_output.txt
+    awk '/Max fitness of generation/ {printf "%.2f Gbps | %s %s | ", $7, $10, $11}' "$file"
+    awk '/Maximum resident set size/ {printf "Max RAM: %.2f MB\n", $6/1024}' time_output.txt
 done
 cd ..
 
@@ -121,3 +133,7 @@ echo "Final Execução: $fim_data" >> dados_execucao.txt
 printf "Tempo total: %02d:%02d:%02d\n" \
     "$horas" "$minutos" "$segundos" >> dados_execucao.txt
 echo "----------------------------" >> dados_execucao.txt
+
+if $notify; then
+    powershell.exe -Command "Import-Module BurntToast; New-BurntToastNotification -Text 'Experimento terminado', 'O script Python terminou!'"
+fi
