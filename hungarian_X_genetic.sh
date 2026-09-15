@@ -6,6 +6,25 @@ DIR_HUNGARIAN_RESULTS="./Hungarian/Results"
 DIR_GENETIC_TESTS="./Genetic/Tests"
 DIR_GENETIC_RESULTS="./Results"
 DIR_GENETIC_RESULTS_DIV="./Results-DIV"
+tls=1000000000000
+notify=false
+
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        -t)
+            tls="$2"
+            shift 2
+            ;;
+        -n|--notify)
+            notify=true
+            shift
+            ;;
+        *)
+            echo "Uso: $0 [-t valor] [-n | --notify]"
+            exit 1
+            ;;
+    esac
+done
 
 if [ ! -d "$DIR_GENETIC_TESTS" ]; then
     mkdir -p "$DIR_GENETIC_TESTS"
@@ -25,14 +44,6 @@ touch dados_execucao.txt
 inicio_data=$(date '+%Y-%m-%d %H:%M:%S')
 inicio_ts=$(date +%s)
 echo "Início Execução: $inicio_data" >> dados_execucao.txt
-
-notify=false
-
-case "$1" in
-    -n|--notify)
-        notify=true
-        ;;
-esac
 
 #######################################################################
 
@@ -90,7 +101,7 @@ for file in ./Tests/*.txt; do
         mkdir -p "$DIR_GENETIC_RESULTS/$file_name"
     fi
 
-    /usr/bin/time -v python3 main.py -pop 10 -m 0.15 -gen 100000 < $file > $DIR_GENETIC_RESULTS/$file_name/Output.txt 2> time_output.txt
+    /usr/bin/time -v python3 main_timebound.py -pop 10 -mut 0.15 -gen 100000 -tl $tls < $file > $DIR_GENETIC_RESULTS/$file_name/Output.txt 2> time_output.txt
 done
 
 
@@ -101,7 +112,7 @@ cd ./Hungarian
 for file in ./Results/*.txt; do
     file_name=$(basename -s .txt "$file")
     printf '\tResultado %s -> ' "$file_name"
-    awk '/^Total Objective/ {total=$4} /Results found in/ {time=$4} END {printf "%.2f Gbps | %s secs | ", total, time}' "$file"
+    awk '/^Total Objective/ {total=$4} /Results found in/ {time=$4} END {printf "%.2f Gbps | %.2f secs | ", total, time}' "$file"
     awk '/Maximum resident set size/ {printf "Max RAM: %.2f MB\n", $6/1024}' time_output.txt
 done
 cd ..
