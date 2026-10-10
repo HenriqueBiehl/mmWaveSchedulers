@@ -126,6 +126,9 @@ for dir in "${DIR_HUNGARIAN_TESTS}"/*/; do
     pid=$!
     relogio "$inicio" "$pid" "$descricao"
     wait "$pid"
+    status=$?
+
+    echo "$status" > "$DIR_HUNGARIAN_RESULTS/${dir_name}.status"
 
     pid=""
     echo
@@ -177,12 +180,28 @@ cd ..
 echo "Hungarian"
 cd ./Hungarian
 index=0
+
 for file in ./Results/*.txt; do
     file_name=$(basename -s .txt "$file")
+    status_file="./Results/${file_name}.status"
+
+    status=0
+    if [[ -f "$status_file" ]]; then
+        status=$(<"$status_file")
+    fi
+
     printf '\tResultado %s -> ' "$file_name"
-    awk '/^Total Objective/ {total=$4} /Results found in/ {time=$4} END {printf "%.2f Gbps | %.2f secs | ", total, time}' "$file"
-    index=$((index + 1))
-    awk -v n="$index" '/^\tCommand being timed:/ {bloco++} bloco == n && /Maximum resident set size/ {printf "Max RAM: %.2f MB\n", $6/1024}' time_output.txt
+
+    if [[ "$status" -eq 137 ]]; then echo "ERRO: processo terminado por SIGKILL (Forced quit)"
+    elif [[ "$status" -gt 128 ]]; then
+        sinal=$((status - 128))
+        echo "ERRO: processo terminado por sinal $sinal"
+    else
+        awk '/^Total Objective/ {total=$4} /Results found in/ {time=$4} END {printf "%.2f Gbps | %.2f secs | ", total, time}' "$file"
+
+        index=$((index + 1))
+        awk -v n="$index" '/^\tCommand being timed:/ {bloco++} bloco == n && /Maximum resident set size/ {printf "Max RAM: %.2f MB\n", $6/1024}' time_output.txt
+    fi
 done
 cd ..
 
