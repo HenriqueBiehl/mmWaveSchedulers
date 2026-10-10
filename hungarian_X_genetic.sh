@@ -182,7 +182,7 @@ echo "Hungarian"
 cd ./Hungarian
 index=0
 
-for file in ./Results/*.txt; do
+for file in $(printf '%s\n' ./Results/*.txt | sort -V); do
     file_name=$(basename -s .txt "$file")
     status_file="./Results/${file_name}.status"
 
@@ -209,7 +209,7 @@ cd ..
 echo "Genetic"
 cd ./Genetic
 index=0
-for file in ./Results/*/*.txt; do
+for file in $(printf '%s\n' ./Results/*/*.txt | sort -V); do
     folder_name=$(basename "$(dirname "$file")")
     printf '\tResultado %s -> ' "$folder_name"
     awk '/Max fitness of generation/ {printf "%.2f Gbps | %s %s | ", $7, $10, $11}' "$file"

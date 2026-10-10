@@ -84,7 +84,7 @@ cd ..
 echo "Genetic-DIV"
 cd ./Genetic
 index=0
-for file in ./Results-DIV/*/*.txt; do
+for file in $(printf '%s\n' ./Results-DIV/*/*.txt | sort -V); do
     folder_name=$(basename "$(dirname "$file")")
     printf '\tResultado %s -> ' "$folder_name"
     awk '/Max fitness of generation/ {printf "%.2f Gbps | %s %s | ", $7, $10, $11}' "$file"
