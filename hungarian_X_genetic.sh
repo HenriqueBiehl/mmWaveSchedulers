@@ -114,7 +114,8 @@ fi
 
 rm -rf ./Hungarian/time_output.txt
 
-for dir in "${DIR_HUNGARIAN_TESTS}"/*/; do
+# for dir in "${DIR_HUNGARIAN_TESTS}"/*/; do
+for dir in $(printf '%s\n' "${DIR_HUNGARIAN_TESTS}"/*/ | sort -V); do
     dir_name=$(basename "$dir")
 
     inicio=$(date +%s)
@@ -153,7 +154,7 @@ fi
 
 rm -rf ./time_output.txt
 
-for file in ./Tests/*.txt; do
+for file in $(printf '%s\n' ./Tests/*.txt | sort -V); do
     file_name=$(basename -s .txt $file)
 
     if [ ! -d "$DIR_GENETIC_RESULTS/$file_name" ]; then

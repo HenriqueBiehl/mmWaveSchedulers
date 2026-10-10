@@ -58,7 +58,7 @@ fi
 
 rm -rf ./time_output.txt
 
-for file in ./Tests/*.txt; do
+for file in $(printf '%s\n' ./Tests/*.txt | sort -V); do
     file_name=$(basename -s .txt $file)
 
     if [ ! -d "$DIR_GENETIC_RESULTS/$file_name" ]; then
