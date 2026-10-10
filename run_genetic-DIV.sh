@@ -84,12 +84,15 @@ cd ..
 echo "Genetic-DIV"
 cd ./Genetic
 index=0
+
 for file in $(printf '%s\n' ./Results-DIV/*/*.txt | sort -V); do
     folder_name=$(basename "$(dirname "$file")")
-    printf '\tResultado %s -> ' "$folder_name"
-    awk '/Max fitness of generation/ {printf "%.2f Gbps | %s %s | ", $7, $10, $11}' "$file"
+    printf '\tResultado %-15s -> ' "$folder_name"
+
+    awk '/Max fitness of generation/ {printf "%10.2f Gbps | %5s %5s | ", $7, $10, $11}' "$file"
+
     index=$((index + 1))
-    awk -v n="$index" '/^\tCommand being timed:/ {bloco++} bloco == n && /Maximum resident set size/ {printf "Max RAM: %.2f MB\n", $6/1024}' time_output.txt
+    awk -v n="$index" '/^\tCommand being timed:/ {bloco++} bloco == n && /Maximum resident set size/ {printf "Max RAM: %7.2f MB\n", $6/1024}' time_output.txt
 done
 cd ..
 

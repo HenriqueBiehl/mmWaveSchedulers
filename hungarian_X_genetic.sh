@@ -177,7 +177,6 @@ done
 cd ..
 
 #######################################################################
-
 echo "Hungarian"
 cd ./Hungarian
 index=0
@@ -191,17 +190,18 @@ for file in $(printf '%s\n' ./Results/*.txt | sort -V); do
         status=$(<"$status_file")
     fi
 
-    printf '\tResultado %s -> ' "$file_name"
+    printf '\tResultado %-15s -> ' "$file_name"
 
-    if [[ "$status" -eq 137 ]]; then echo "ERRO: processo terminado por SIGKILL (Forced quit)"
+    if [[ "$status" -eq 137 ]]; then
+        echo "ERRO: processo terminado por SIGKILL (Forced quit)"
     elif [[ "$status" -gt 128 ]]; then
         sinal=$((status - 128))
         echo "ERRO: processo terminado por sinal $sinal"
     else
-        awk '/^Total Objective/ {total=$4} /Results found in/ {time=$4} END {printf "%.2f Gbps | %.2f secs | ", total, time}' "$file"
+        awk '/^Total Objective/ {total=$4} /Results found in/ {time=$4} END {printf "%10.2f Gbps | %5.2f secs | ", total, time}' "$file"
 
         index=$((index + 1))
-        awk -v n="$index" '/^\tCommand being timed:/ {bloco++} bloco == n && /Maximum resident set size/ {printf "Max RAM: %.2f MB\n", $6/1024}' time_output.txt
+        awk -v n="$index" '/^\tCommand being timed:/ {bloco++} bloco == n && /Maximum resident set size/ {printf "Max RAM: %7.2f MB\n", $6/1024}' time_output.txt
     fi
 done
 cd ..
@@ -209,12 +209,15 @@ cd ..
 echo "Genetic"
 cd ./Genetic
 index=0
+
 for file in $(printf '%s\n' ./Results/*/*.txt | sort -V); do
     folder_name=$(basename "$(dirname "$file")")
-    printf '\tResultado %s -> ' "$folder_name"
-    awk '/Max fitness of generation/ {printf "%.2f Gbps | %s %s | ", $7, $10, $11}' "$file"
+    printf '\tResultado %-15s -> ' "$folder_name"
+
+    awk '/Max fitness of generation/ {printf "%10.2f Gbps | %5s %5s | ", $7, $10, $11}' "$file"
+
     index=$((index + 1))
-    awk -v n="$index" '/^\tCommand being timed:/ {bloco++} bloco == n && /Maximum resident set size/ {printf "Max RAM: %.2f MB\n", $6/1024}' time_output.txt
+    awk -v n="$index" '/^\tCommand being timed:/ {bloco++} bloco == n && /Maximum resident set size/ {printf "Max RAM: %7.2f MB\n", $6/1024}' time_output.txt
 done
 cd ..
 
